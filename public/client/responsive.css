@@ -1,0 +1,218 @@
+@media (max-width: 575.98px) {
+    #list-product li.item .thumb-product img {
+    width: 100% !important;
+}
+    * {
+        font-size: 14px !important;
+    }
+
+    #myFooter {
+        font-size: 15px;
+    }
+
+    #myFooter .license {
+        text-align: center;
+    }
+
+    #myFooter .social {
+        font-size: 15px;
+        justify-content: center;
+        margin-top: 10px;
+    }
+
+    .offcanvas {
+        width: 66.66%;
+        /* Chiếm 2/3 màn hình */
+        transform: translateX(-100%);
+    }
+    .toggle-icon {
+        display: inline;
+    }
+
+    ul.collapse1,
+    ul.collapse2,
+    ul.collapse3 {
+        display: none;
+    }
+
+    #headerRespon {
+        display: block !important;
+    }
+
+    #headerRespon .logo b {
+        font-size: 23px !important;
+        align-items: center;
+    }
+
+    #headerRespon #icon-menu {
+        font-size: 12px;
+    }
+    .iconCart,
+    .iconUser,
+    .iconMenu {
+        background: #fff;
+        color: black;
+        border-radius: 50%;
+    }
+    .iconHeaderRp i {
+        width: 30px;
+        height: 30px;
+        display: block;
+        padding: 8px;
+    }
+
+    .navbar {
+        border-radius: 50%;
+    }
+
+    .show-discount img {
+        height: auto;
+    }
+    #list-product li.item {
+        margin: 10px 0px;
+    }
+    #slider .carousel-item img {
+        height: 150px !important;
+        width: 100%;
+    }
+    .flag {
+        background: #fff;
+        padding: 10px;
+        border-radius: 5px;
+        margin: 5px 0px;
+    }
+    #service .icon img {
+        width: 30px;
+        height: 30px;
+        margin-right: 10px;
+    }
+    #featured-products .title b {
+        top: 17px;
+        left: 45px;
+        font-size: 16px;
+    }
+    #list-product li.item {
+        width: 100%;
+    }
+    .btn-style {
+        font-size: 12px;
+    }
+    #list-product li.item .price span {
+        font-size: 10px;
+    }
+    .Countdown .box {
+        font-size: 16px;
+        text-align: center;
+        width: 40px;
+    }
+    .Countdown .time-unit {
+        width: 40px;
+    }
+    .wp-same-category li {
+        width: 100%;
+        padding: 0px 20px;
+    }
+    .owl-carousel-same-category .owl-item {
+        display: none;
+    }
+    .owl-carousel-same-category .owl-item.active {
+        display: block;
+    }
+    * {
+        font-size: large;
+    }
+
+    .btn-more-info .view-mode {
+        padding: 5px 20px;
+    }
+    #wp-detail-product .product_name {
+        margin: 10px 0px;
+        font-size: 20px;
+    }
+    #wp-detail-product .section-detail .show-product {
+        padding: 10px;
+    }
+    #wp-detail-product .section-detail {
+        padding: 0px;
+    }
+    #wp-blog .item img {
+        width: 100%;
+        height: auto;
+        margin-bottom: 10px;
+    }
+
+    #wp-detail-product .list_thumb {
+        width: 100%;
+        height: 100%;
+        display: block;
+        margin: 20px 0px;
+    }
+
+    #breadcrumb-wp .list-item li a {
+        font-size: 14px;
+    }
+
+    p {
+        font-size: 14px;
+    }
+
+    #wrapper-login {
+        display: block;
+        padding: 30px 0px;
+    }
+
+    #form-login {
+        padding: 30px 10px;
+        border-radius: 10px;
+    }
+
+    #wp-cart .cart-detail-responsive li {
+        padding: 5px;
+        border: 1px solid rgb(166, 165, 165);
+        margin-bottom: 5px;
+    }
+    #wp-cart .cart-detail-responsive img {
+        max-width: 100%;
+    }
+    #wp-cart .cart-detail-responsive .name-product {
+        font-size: 12px;
+    }
+
+    #num-order-wp {
+        margin: 5px 0px;
+    }
+    #num-order {
+        width: 20px;
+        height: 20px;
+        line-height: 0px;
+        font-size: 14px;
+    }
+    #minus,
+    #plus {
+        width: 20px;
+        height: 20px;
+    }
+    #minus i,
+    #plus i {
+        width: 10px;
+        height: 10px;
+        padding: 5px;
+        display: block;
+    }
+
+    .cart-empty img {
+        max-width: 100%;
+    }
+
+    #wp-order-success img {
+        max-width: 100%;
+    }
+
+    .show-discount .discount-right .percent .number {
+        font-size: 20px;
+        position: absolute;
+        top: 15px;
+        left: 10px;
+        font-size: large !important;
+    }
+}

@@ -1,0 +1,562 @@
+[
+  {
+    "table": "ai_knowledge",
+    "column": "content",
+    "id": 2,
+    "orig": "Cris Store - Chuyên giày đá bóng chính hãng hàng đầu. Cửa hàng tọa lạc tại Đại học Công nghệ Đông Á. Hotline: 0375284572. Email: admin@crisstore.com. Chúng tôi cam kết mang đến những đôi giày chất lượng nhất để nâng tầm đôi chân Việt.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "ai_knowledge",
+    "column": "content",
+    "id": 3,
+    "orig": "Miễn phí giao hàng toàn quốc. Thời gian giao hàng từ 3-7 ngày tùy khu vực. Đơn hàng trên 500.000đ được miễn phí vận chuyển.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "ai_knowledge",
+    "column": "content",
+    "id": 4,
+    "orig": "Hỗ trợ thanh toán khi nhận hàng (COD) và thanh toán online qua VNPay. Khách hàng có thể thanh toán trực tiếp khi nhận hàng hoặc thanh toán trước qua chuyển khoản.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "ai_knowledge",
+    "column": "content",
+    "id": 5,
+    "orig": "Chính sách đổi mới: Khách hàng được đổi sản phẩm trong vòng 7 ngày nếu sản phẩm bị lỗi từ nhà sản xuất. Sản phẩm đổi phải còn nguyên vẹn, có đầy đủ phụ kiện và hóa đơn.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "ai_knowledge",
+    "column": "content",
+    "id": 6,
+    "orig": "Khách hàng có thể làm thẻ thành viên tại cửa hàng để hưởng các ưu đãi và điểm tích lũy. Điểm tích lũy có thể đổi quà tặng và các sản phẩm đặc biệt.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "blogs",
+    "column": "content_demo",
+    "id": 8,
+    "orig": "Quan chức Ukraine nói rằng Nga đã rút gần như toàn bộ lực lượng khỏi lãnh thổ quốc gia đồng minh Belarus.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "blogs",
+    "column": "content_demo",
+    "id": 9,
+    "orig": "Tổng thống Hàn Quốc Yoon Suk-yeol đến Ukraine trong chuyến thăm không được thông báo rộng rãi trước đó.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "blogs",
+    "column": "content_demo",
+    "id": 11,
+    "orig": "Chuyến thăm của bà Kamala Harris, đánh dấu lần đầu tiên một phó tổng thống Mỹ thăm Việt Nam, diễn ra trong bối cảnh quan hệ song phương tiếp tục phát triển tích cực, nên được dư luận quốc tế quan tâm.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "blogs",
+    "column": "content_demo",
+    "id": 12,
+    "orig": "Từ rác thải, chị Nguyễn Xuân Hoa ( Hải Phòng) đã tái chế thành những sản phẩm đẹp mắt, hữu dụng trong gia đình, góp phần lan toả tinh thần sống xanh.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "blogs",
+    "column": "name",
+    "id": 8,
+    "orig": "Ukraine nói Nga rút gần như toàn bộ lực lượng khỏi Belarus",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "blogs",
+    "column": "name",
+    "id": 10,
+    "orig": "【Hướng Dẫn】Cách Làm Cây Xanh Từ Vật Liệu Phế Thải Đơn Giản Nhất",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "blogs",
+    "column": "name",
+    "id": 11,
+    "orig": "Truyền thông quốc tế đặc biệt quan tâm chuyến thăm Việt Nam của bà Harris",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "blogs",
+    "column": "name",
+    "id": 12,
+    "orig": "\"Hô biến\" rác thải thành những cỏ cây, hoa lá, đồ trang trí tuyệt đẹp",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "cat_blogs",
+    "column": "name",
+    "id": 12,
+    "orig": "Môi trường",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "cat_blogs",
+    "column": "name",
+    "id": 14,
+    "orig": "Cầu lông",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "cat_blogs",
+    "column": "name",
+    "id": 16,
+    "orig": "Xã hội",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "cat_blogs",
+    "column": "name",
+    "id": 19,
+    "orig": "Môi trường",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 6,
+    "orig": "Chào bạn! 👋\n\nCửa hàng Cris Store chuyên bán các sản phẩm **nội thất gia đình** bao gồm:\n\n📺 **Kệ tivi**\n🛋️ **Bàn trà, ghế sofa, ghế gỗ tái chế**\n🍽️ **Bàn ăn**\n🛏️ **Giường ngủ**\n💄 **Bàn trang điểm**\n🍳 **Tủ bếp**\n🪑 **Bộ bàn ghế cao su tái chế**\n🚗 **Bộ bàn ghế lốp xe tái chế**\n🏡 **Xích đu sân vườn**\n🌿 **Cây xanh trang trí từ chai nhựa tái chế**\n\nTất cả sản phẩm đều được làm từ **vật liệu thân thiện môi trường** 🌱\n\nBạn muốn tìm hiểu thêm về sản phẩm nào không?",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 8,
+    "orig": "Chào bạn! 👋\n\nDưới đây là thông tin về **Cris Store**:\n\n---\n\n**🏪 Cris Store - Nâng niu bàn chân Việt**\n\n📍 **Địa chỉ:** Tọa lạc tại Đại học Công nghệ Đông Á\n\n📞 **Hotline:** 19006750\n\n📧 **Email:** quannguyen04082004@gmail.com\n\n---\n\n**🛋️ Sản phẩm chính:**\nCris Store chuyên bán các sản phẩm nội thất gia đình bao gồm:\n- Kệ tivi, bàn trà, bàn ăn, giường ngủ, bàn trang điểm\n- Tủ bếp, ghế sofa, ghế gỗ tái chế, xích đu sân vườn\n- Cây xanh trang trí từ chai nhựa tái chế\n- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái chế\n\n♻️ *Tất cả sản phẩm đều được làm từ vật liệu thân thiện môi trường.*\n\n---\n\n**🚚 Chính sách vận chuyển:** Miễn phí giao hàng toàn quốc (3-7 ngày tùy khu vực)\n\n**💳 Thanh toán:** COD & VNPay\n\n**🔄 Đổi trả:** 7 ngày nếu lỗi từ nhà sản xuất\n\n**🏷️ Thẻ thành viên:** Tích điểm & đổi quà\n\nBạn cần biết thêm thông tin gì nữa không? 😊",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 10,
+    "orig": "Có bạn! 👋\n\nCris Store **có bán bàn giường ngủ** nhé! 🛏️\n\nCửa hàng chuyên bán các sản phẩm nội thất gia đình bao gồm:\n\n- **Giường ngủ** ✅\n- Kệ tivi, bàn trà, bàn ăn\n- Bàn trang điểm, tủ bếp\n- Ghế sofa, ghế gỗ tái chế\n- Xích đu sân vườn\n- Cây xanh trang trí từ chai nhựa tái chế\n- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái chế\n\n♻️ Tất cả sản phẩm đều được làm từ vật liệu thân thiện môi trường.\n\nBạn muốn biết thêm thông tin chi tiết về sản phẩm nào cụ thể không? 😊",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 14,
+    "orig": "Xin chào bạn! 👋\n\nHiện tại mình chưa có thông tin cụ thể về các chương trình khuyến mãi đang diễn ra tại Cris Store.\n\nBạn có thể liên hệ trực tiếp với Cris Store để được cập nhật ưu đãi mới nhất:\n\n- **Hotline:** 19006750\n- **Email:** quannguyen04082004@gmail.com\n- **Địa chỉ:** Đại học Công nghệ Đông Á\n\nBạn còn cần mình hỗ trợ gì không? 😊",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 16,
+    "orig": "Xin chào bạn! 👋\n\nMình là trợ lý của **Cris Store** - cửa hàng chuyên bán nội thất gia đình.\n\n**Về Cris Store:**\n- 📍 Địa chỉ: Tọa lạc tại Đại học Công nghệ Đông Á\n- 📞 Hotline: **1900 6750**\n- 📧 Email: quannguyen04082004@gmail.com\n\n**Sản phẩm chính:**\nCris Store chuyên cung cấp các sản phẩm nội thất gia đình bao gồm:\n- Kệ tivi, bàn trà, bàn ăn\n- Giường ngủ, bàn trang điểm\n- Tủ bếp, ghế sofa, ghế gỗ tái chế\n- Xích đu sân vườn, cây xanh trang trí từ chai nhựa tái chế\n- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái chế\n\n👉 Tất cả sản phẩm đều được làm từ **vật liệu thân thiện môi trường**.\n\n**Chính sách nổi bật:**\n- 🚚 Miễn phí giao hàng toàn quốc (đơn từ 500.000đ)\n- 🔄 Đổi mới trong 7 ngày nếu sản phẩm lỗi\n- 💳 Thanh toán COD hoặc online qua VNPay\n- 🎁 Có thẻ thành viên tích lũy điểm\n\nBạn muốn tìm hiểu thêm về sản phẩm nào hoặc cần hỗ trợ gì ạ? 😊",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 18,
+    "orig": "Chào bạn! 😊\n\n**Cris Store** chuyên bán các sản phẩm **nội thất gia đình**, bao gồm:\n\n🪑 **Bàn ghế:**\n- Kệ tivi, bàn trà, bàn ăn\n- Ghế sofa, ghế gỗ tái chế\n- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái ché\n\n🛏️ **Giường & Tủ:**\n- Giường ngủ, bàn trang điểm, tủ bếp\n\n🌿 **Trang trí & Ngoại thất:**\n- Xích đu sân vườn\n- Cây xanh trang trí từ chai nhựa tái chế\n\n👉 **Đặc biệt:** Tất cả sản phẩm đều được làm từ **vật liệu thân thiện môi trường** 🌱\n\nBạn quan tâm đến sản phẩm nào cụ thể không ạ? Mình có thể tư vấn thêm cho bạn!",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 20,
+    "orig": "Chào bạn! 😊\n\n**Cris Store** chuyên bán các sản phẩm **nội thất gia đình**, bao gồm:\n\n🪑 **Bàn ghế:**\n- Kệ tivi, bàn trà, bàn ăn\n- Ghế sofa, ghế gỗ tái chế\n- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái ché\n\n🛏️ **Giường & Tủ:**\n- Giường ngủ, bàn trang điểm, tủ bếp\n\n🌿 **Trang trí & Ngoại thất:**\n- Xích đu sân vườn\n- Cây xanh trang trí từ chai nhựa tái chế\n\n👉 **Đặc biệt:** Tất cả sản phẩm đều được làm từ **vật liệu thân thiện môi trường** 🌱\n\nBạn quan tâm đến sản phẩm nào cụ thể không ạ? Mình có thể tư vấn thêm cho bạn!",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 21,
+    "orig": "hãy xuất file excle báo giá 1 vài sản phẩm nổi bật",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 22,
+    "orig": "⚠️ Không thể kết nối tới máy chủ AI.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 23,
+    "orig": "hãy xuất file excle báo giá 1 vài sản phẩm nổi bật",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 24,
+    "orig": "Dưới đây là bảng báo giá một vài sản phẩm nổi bật tại **Cris Store**:\n\n| **STT** | **Tên sản phẩm** | **Đơn giá (VNĐ)** |\n|---------|-------------------|-------------------|\n| 1 | Kệ tivi | 1.500.000 |\n| 2 | Bàn trà | 1.200.000 |\n| 3 | Bàn ăn | 2.000.000 |\n| 4 | Giường ngủ | 3.500.000 |\n| 5 | Ghế sofa | 2.800.000 |\n\n> ⚠️ **Lưu ý:** Bảng giá trên chỉ mang tính chất tham khảo. Giá thực tế có thể thay đổi tùy thời điểm. Vui lòng liên hệ **Hotline: 19006750** hoặc **Email: quannguyen04082004@gmail.com** để được tư vấn chính xác nhất.\n\n---\n\n[📥 Tải Excel](http://localhost:8000/admin/chatbox/export/7)",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 27,
+    "orig": "### Câu trả lời dựa trên dữ liệu cơ sở:\n\nChúng tôi chỉ được trả lời thông tin liên quan trực tiếp đến **Cris Store**, như sau:\n\n---\n\n### 🔍 Thông tin sản phẩm đang có (Từ `KNOWLEDGE`):\n- **Kệ tiệp kết hợp bàn trà** – 9 lượt mua, giá 2.430.000đ  \n- **Kệ tiệp kết hợp bàn trà Bắc Âu** – 8 lượt mua, giá 6.100.000đ  \n- **Xích đu sân vườn thời trang cao su tái chế** – 6 lượt mua, giá 600.000đ  \n- **Bộ bàn ghế cao su thân thiện môi trường cao cấp** – 5 lượt mua, giá 1.515.000đ  \n- **Cây Xanh Từ Chai Nhựa Đồ Trang Trí** – 5 lượt mua, giá 135.000đ  \n\n---\n\n### 📋 Danh sách sản phẩm nổi bật:\n1. **Kệ tiệp kết hợp bàn trà** – 9 lượt, 2.430.000đ  \n2. **Kệ tiệp kết hợp bàn trà Bắc Âu** – 8 lượt, 6.100.000đ  \n3. **Xích đu sân vườn thời trang cao su tái chế** – 6 lượt, 600.000đ  \n4. **Bộ bàn ghế cao su** – 5 lượt, 1.515.000đ  \n5. **Cây Xanh Từ chai nhựa** – 5 lượt, 135.000đ  \n\n---\n\n### 📌 Lưu ý quan trọng:\n- Thông tin này chỉ được trả lời từ cơ sở dữ liệu được cung cấp (KNOWLEDGE, PRODUCT_RESULTS, ORDER_INFO).  \n- Không được tạo ra hoặc đoán thông tin không có trong hệ thống.  \n- Nếu bạn cần thông tin chi tiết hơn (ví dụ: mã sản phẩm, thông tin chi tiết giao dịch), vui lòng liên hệ trực tiếp qua chat.\n\n---\n\n📩 **Lưu ý:** Chúng tôi luôn cập nhật thông tin chính xác nhất từ cơ sở dữ liệu để đảm bảo chính xác.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 29,
+    "orig": "📋 **Các sản phẩm được bán tại Cris Store:**\n\n- **Kệ TI VI KẾT HỢP BÀN TRÀ**  \n  - Số lượt mua: 9  \n  - Giá: 2.430.000đ  \n\n- **KATINA KỆ TI VI KẾT HỢP BÀN TRÀ BẮC ÂU**  \n  - Số lượt mua: 8  \n  - Giá: 6.100.000đ  \n\n- **Xích đu sân vườn thời trang cao su tái chế**  \n  - Số lượt mua: 6  \n  - Giá: 600.000đ  \n\n- **Bộ bàn ghế cao su thân thiện môi trường cao cấp**  \n  - Số lượt mua: 5  \n  - Giá: 1.515.000đ  \n\n- **Cây Xanh Từ Chai Nhựa Đồ Trang Trí**  \n  - Số lượt mua: 5  \n  - Giá: 135.000đ  \n\n🔍 **Lưu ý:**  \n- Thông tin này được trích trực tiếp từ **KNOWLEDGE**, **PRODUCT_RESULTS**, và **ORDER_INFO**.  \n- Chỉ được trả lời từ thông tin sản phẩm đã xem xét.  \n- Nếu có thêm câu hỏi, hãy cho tôi biết! 😊",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 31,
+    "orig": "📥 **Tải Excel của Cris Store**  \n\nĐể tải file Excel, hãy thực hiện các bước sau:\n\n1. **Đăng nhập vào trang admin Cris Store**  \n2. Truy cập cảng thả xuất Excel và chọn **Export**.  \n3. Chọn địa chỉ URL sau:  \n   ```markdown\n   [📥 Tải Excel](http://localhost:8000/admin/chatbox/export/10)\n   ```  \n4. Chọn tên tệp Excel để tải (ví dụ: `cris_store_sales.xlsx`).  \n5. Sau khi tạo tệp, nhấp vào **Download** để được tải file.\n\n📌 **Lưu ý:**  \n- File Excel sẽ chứa dữ liệu giao hàng, đơn hàng và thông tin sản phẩm.  \n- Nếu cần thêm tài liệu khác, hãy liên hệ trực tiếp qua email hoặc hotline được cung cấp.  \n\n📎 **Hãy đảm bảo:**  \n- Tên file đạt định dạng `.xlsx` (hoặc `.csv` nếu cần).  \n\nNếu bạn cần thêm thông tin cụ thể về dữ liệu, hãy cho tôi biết! 😊",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 33,
+    "orig": "✅ **Định dạng file Excel đã được tạo:**  \n[📥 Tải Excel Cris Store](http://localhost:8000/admin/chatbox/export/10)  \n\n📄 **Thông tin tải:**  \n- File được tải từ URL trên được **tách biệt** theo các bảng (sản phẩm, đơn hàng, giá).  \n- Có thông tin chi tiết về sản phẩm, đơn hàng, và giao hàng được ghi chú rõ ràng.  \n- Thức ưu: Nếu cần xem lại, bạn chỉ cần mở file tải từ link trên.  \n\n📌 **Lưu ý:**  \n- Đọc kỹ các bảng để nhận diện thông tin chính.  \n- Nếu cần điều chỉnh dữ liệu, hãy liên hệ qua **Hotline** hoặc email **quannguyen04082004@gmail.com**.  \n\n😊 **Chúc bạn thành công!**",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 35,
+    "orig": "📊 **Xuất dữ liệu sản phẩm được bán tại Cris Store**  \n\nĐể tải file Excel, hãy tham khảo **các bảng sau** (tên tệp được tạo theo định dạng `.xlsx`):  \n\n1. **Sản phẩm - Kệ TI VI KẾT HỢP BÀN TRÀ**  \n   - Số lượt mua: 9  \n   - Giá: 2.430.000đ  \n\n2. **Sản phẩm - Kệ TI VI KẾT HỢP BÀN TRÀ BẮC ÂU**  \n   - Số lượt mua: 8  \n   - Giá: 6.100.000đ  \n\n3. **Sản phẩm - Kệ Bàn (Bàn ghế cao su)**  \n   - Số lượt mua: 6  \n   - Giá: 1.515.000đ  \n\n4. **Sản phẩm - Xích đu sân vườn thời trang cao su tái chế**  \n   - Số lượt mua: 5  \n   - Giá: 600.000đ  \n\n5. **Sản phẩm - Bộ bàn ghế cao su thân thiện môi trường**  \n   - Số lượt mua: 5  \n   - Giá: 1.275.000đ  \n\n📌 **Lưu ý:**  \n- Các bảng được tạo dựa trên dữ liệu từ **KNOWLEDGE**, **PRODUCT_RESULTS**, và **ORDER_INFO**.  \n- Bạn có thể xem chi tiết chi tiết hơn từ file Excel để lắng nghe chi tiết giao hàng, gói gửi,…  \n- Nếu cần thêm thông tin nhất quán, hãy liên hệ qua **Hotline** hoặc email **quannguyen04082004@gmail.com**.  \n\n👉 **Tải file tại địa chỉ được:** [📥 Tải Excel Cris Store](http://localhost:8000/admin/chatbox/export/10)  \n\nNếu cần thêm tài liệu khác, hãy cho tôi biết! 😊",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "chat_messages",
+    "column": "content",
+    "id": 37,
+    "orig": "**Đáp án chính xác:**  \nCửa hàng Cris Store chủ yếu bán **giấy dép giày đá bóng** từ các thương hiệu như **Nike, Adidas, Puma, Mizuno**.  \n\n**Giải thích chi tiết:**  \n- Dữ liệu từ **KNOWLEDGE** chỉ định các thương hiệu chính được cung cấp.  \n- Thông tin được kiểm chứng từ **PRODUCT_RESULTS** và **ORDER_INFO**.  \n- Khi gặp cần thêm chi tiết (ví dụ: mã sản phẩm), hướng dẫn khách hàng liên hệ trực tiếp.  \n\n**Lưu ý:**  \n- Số lượng sản phẩm đang có là **4** (giống như dữ liệu trong database).  \n- Để đảm bảo chất lượng, khách hàng có thể liên hệ với bộ phận **Admin** để được hỗ trợ chi tiết.  \n\nNếu cần thêm thông tin chi tiết về một sản phẩm cụ thể, vui lòng cho biết! 🚀",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "configs",
+    "column": "memory",
+    "id": 6,
+    "orig": "Gỗ bông",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "feedback",
+    "column": "content",
+    "id": 18,
+    "orig": "Hàng tốt lắm! Shop nhiệt tình😍",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "feedback",
+    "column": "content",
+    "id": 38,
+    "orig": "Sản phẩm thân thiện với môi trường🤩🤩🤩",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "feedback",
+    "column": "content",
+    "id": 50,
+    "orig": "Giao hàng chậm, Nhưng chủ shop dễ thương nên tạm cho 4 sao",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 5,
+    "orig": "Xã Chi Lăng Nam - Huyện Thanh Miện - Tỉnh Hải Dương",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 6,
+    "orig": "Xã Tân Tiến - Thành phố Bắc Giang - Tỉnh Bắc Giang",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 8,
+    "orig": "Xã Năng Khả - Huyện Na Hang - Tỉnh Tuyên Quang",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 10,
+    "orig": "Xã Yên Giả - Huyện Quế Võ - Tỉnh Bắc Ninh",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 13,
+    "orig": "Xã Chi Lăng Nam - Huyện Thanh Miện - Tỉnh Hải Dương",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 14,
+    "orig": "Xã Quang Minh - Huyện Gia Lộc - Tỉnh Hải Dương",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 15,
+    "orig": "Phường Sông Đà - Thị Xã Mường Lay - Tỉnh Điện Biên",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 24,
+    "orig": "Xã Hồng Phong - Huyện Ninh Giang - Tỉnh Hải Dương",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 25,
+    "orig": "Xã Sơn Đồng - Huyện Hoài Đức - Thành phố Hà Nội - Số 152",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 27,
+    "orig": "Phường Hoàng Quế - Thị xã Đông Triều - Tỉnh Quảng Ninh",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 28,
+    "orig": "Phường Trúc Bạch - Quận Ba Đình - Thành phố Hà Nội",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 32,
+    "orig": "Phường Liên Bảo - Thành phố Vĩnh Yên - Tỉnh Vĩnh Phúc",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 33,
+    "orig": "Phường Phúc Xá - Quận Ba Đình - Thành phố Hà Nội - 3",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "address",
+    "id": 34,
+    "orig": "Xã Đại Tự - Huyện Yên Lạc - Tỉnh Vĩnh Phúc - 12",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "fullname",
+    "id": 6,
+    "orig": "Trần Quang Kiên",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "fullname",
+    "id": 15,
+    "orig": "Lê Quang Thắng",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "orders",
+    "column": "fullname",
+    "id": 34,
+    "orig": "Nguyễn Văn Quân",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "pages",
+    "column": "content",
+    "id": 5,
+    "orig": "<p style=\"text-align: center;\"><strong>Chào mừng bạn đến với Cris Store - Thiên đường giày đá bóng chính hãng. Chúng tôi cung cấp các loại giày đá bóng từ những thương hiệu hàng đầu như Nike, Adidas, Puma... với cam kết chất lượng tốt nhất và giá cả cạnh tranh.</strong></p>",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "pages",
+    "column": "content",
+    "id": 6,
+    "orig": "<p style=\"text-align: center;\"><strong>Nếu bạn có bất kỳ câu hỏi nào về sản phẩm giày đá bóng, hãy liên hệ với chúng tôi qua số điện thoại 0375284572 hoặc email admin@crisstore.com. Chúng tôi luôn sẵn lòng lắng nghe và hỗ trợ bạn.</strong></p>",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "pages",
+    "column": "name",
+    "id": 6,
+    "orig": "Liên hệ",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "pages",
+    "column": "title",
+    "id": 6,
+    "orig": "Liên hệ với Cris Store",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "permissions",
+    "column": "name",
+    "id": 25,
+    "orig": "➻❥ Thêm quản trị",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "permissions",
+    "column": "name",
+    "id": 27,
+    "orig": "➻❥ Cập nhật giày đá bóng",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "permissions",
+    "column": "name",
+    "id": 29,
+    "orig": "➻❥ Xóa quản trị",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "permissions",
+    "column": "name",
+    "id": 40,
+    "orig": "➻❥ Sửa vai trò",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "permissions",
+    "column": "name",
+    "id": 42,
+    "orig": "➻❥ Thêm quyền",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "permissions",
+    "column": "name",
+    "id": 44,
+    "orig": "➻❥ Xóa quyền",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "permissions",
+    "column": "name",
+    "id": 67,
+    "orig": "➻❥ Xóa đơn giày",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "products",
+    "column": "desc_detail",
+    "id": 2,
+    "orig": "Thiết kế khí động học giúp bứt tốc tối đa trên sân cỏ nhân tạo.",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "products",
+    "column": "desc_quick",
+    "id": 2,
+    "orig": "Giày đá bóng siêu nhẹ cho tiền đạo",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "roles",
+    "column": "description",
+    "id": 16,
+    "orig": "Quản lý toàn quyền trên hệ thống",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  },
+  {
+    "table": "users",
+    "column": "name",
+    "id": 32,
+    "orig": "Trần Quang Kiên",
+    "ftfy_text": null,
+    "ftfy_encoding": null
+  }
+]

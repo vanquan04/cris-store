@@ -1,0 +1,4 @@
+table,column,pk,id,hex,original_score,best_score,best_transform,original,fixed
+permissions,name,id,51,E29EBBE29DA52058656D20736C69646572,0,40,utf8->latin1->utf8,➻❥ Xem slider,â»â¥ Xem slider
+permissions,name,id,55,E29EBBE29DA52058656D2062616E6E6572,0,40,utf8->latin1->utf8,➻❥ Xem banner,â»â¥ Xem banner
+permissions,name,id,60,E29EBBE29DA52058656D207472616E67,0,40,utf8->latin1->utf8,➻❥ Xem trang,â»â¥ Xem trang

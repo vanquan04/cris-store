@@ -1,0 +1,53 @@
+#wp-total-cart #total-price {
+    margin: 20px 0px;
+    display: block;
+}
+#wp-total-cart #total-price span {
+    font-weight: 600;
+    color: red;
+    font-size: 20px;
+}
+#wp-total-cart #total-price {
+    font-weight: 500;
+    color: black;
+    font-size: large;
+}
+
+#checkout-cart {
+    background: #2b5480;
+    padding: 12px 20px;
+    font-weight: 500;
+    color: #fff;
+    margin: 20px 0px;
+    display: inline-block;
+    border-radius: 5px;
+    transition: all 0.3s;
+}
+#checkout-cart:hover {
+    background: #1960ac;
+}
+
+#btn-control-cart a {
+    line-height: 25px;
+    color: #1960ac;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#wp-cart .cart-detail img {
+    max-width: 80px;
+    border-radius: 5px;
+}
+#wp-cart .cart-detail tr {
+    text-align: center;
+}
+#wp-cart .cart-detail td {
+    vertical-align: middle;
+    text-align: center;
+}
+#wp-cart .cart-detail .name-product {
+    font-weight: 500;
+}
+#wp-cart .cart-detail .sub-total {
+    font-weight: 500;
+    color: rgb(255, 96, 96);
+}

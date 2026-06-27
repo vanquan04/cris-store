@@ -1,0 +1,23 @@
+[
+  {
+    "id": 51,
+    "hex": "E29EBBE29DA52058656D20736C69646572",
+    "orig_repr": "'➻❥ Xem slider'",
+    "latin1_utf8": "ERROR 'latin-1' codec can't encode characters in position 0-1: ordinal not in range(256)",
+    "cp1252_utf8": "ERROR 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>"
+  },
+  {
+    "id": 55,
+    "hex": "E29EBBE29DA52058656D2062616E6E6572",
+    "orig_repr": "'➻❥ Xem banner'",
+    "latin1_utf8": "ERROR 'latin-1' codec can't encode characters in position 0-1: ordinal not in range(256)",
+    "cp1252_utf8": "ERROR 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>"
+  },
+  {
+    "id": 60,
+    "hex": "E29EBBE29DA52058656D207472616E67",
+    "orig_repr": "'➻❥ Xem trang'",
+    "latin1_utf8": "ERROR 'latin-1' codec can't encode characters in position 0-1: ordinal not in range(256)",
+    "cp1252_utf8": "ERROR 'charmap' codec can't encode characters in position 0-1: character maps to <undefined>"
+  }
+]

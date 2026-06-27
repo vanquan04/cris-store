@@ -1,0 +1,12 @@
+body {
+    color: black;
+}
+
+#btn-top {
+    position: fixed;
+    bottom: 50px;
+    right: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    z-index: 100;
+}

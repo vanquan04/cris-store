@@ -1,0 +1,29 @@
+[
+  {
+    "id": 51,
+    "hex": "E29EBBE29DA52058656D20736C69646572",
+    "orig": "➻❥ Xem slider",
+    "fix_text": "➻❥ Xem slider",
+    "fix_encoding": "➻❥ Xem slider",
+    "latin1_utf8": "?? Xem slider",
+    "cp1252_utf8": "?? Xem slider"
+  },
+  {
+    "id": 55,
+    "hex": "E29EBBE29DA52058656D2062616E6E6572",
+    "orig": "➻❥ Xem banner",
+    "fix_text": "➻❥ Xem banner",
+    "fix_encoding": "➻❥ Xem banner",
+    "latin1_utf8": "?? Xem banner",
+    "cp1252_utf8": "?? Xem banner"
+  },
+  {
+    "id": 60,
+    "hex": "E29EBBE29DA52058656D207472616E67",
+    "orig": "➻❥ Xem trang",
+    "fix_text": "➻❥ Xem trang",
+    "fix_encoding": "➻❥ Xem trang",
+    "latin1_utf8": "?? Xem trang",
+    "cp1252_utf8": "?? Xem trang"
+  }
+]

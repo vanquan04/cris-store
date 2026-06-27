@@ -1,0 +1,125 @@
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.4.0/css/all.min.css" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="http://localhost:8000/admin_assets/css/login.css">
+
+    <title>Đăng nhập</title>
+
+<script type="text/javascript" class="flasher-js">
+(function() {
+    var rootScript = 'https://cdn.jsdelivr.net/npm/@flasher/flasher@1.3.2/dist/flasher.min.js';
+    var FLASHER_FLASH_BAG_PLACE_HOLDER = {};
+    var options = mergeOptions([], FLASHER_FLASH_BAG_PLACE_HOLDER);
+
+    function mergeOptions(first, second) {
+        return {
+            context: merge(first.context || {}, second.context || {}),
+            envelopes: merge(first.envelopes || [], second.envelopes || []),
+            options: merge(first.options || {}, second.options || {}),
+            scripts: merge(first.scripts || [], second.scripts || []),
+            styles: merge(first.styles || [], second.styles || []),
+        };
+    }
+
+    function merge(first, second) {
+        if (Array.isArray(first) && Array.isArray(second)) {
+            return first.concat(second).filter(function(item, index, array) {
+                return array.indexOf(item) === index;
+            });
+        }
+
+        return Object.assign({}, first, second);
+    }
+
+    function renderOptions(options) {
+        if(!window.hasOwnProperty('flasher')) {
+            console.error('Flasher is not loaded');
+            return;
+        }
+
+        requestAnimationFrame(function () {
+            window.flasher.render(options);
+        });
+    }
+
+    function render(options) {
+        if ('loading' !== document.readyState) {
+            renderOptions(options);
+
+            return;
+        }
+
+        document.addEventListener('DOMContentLoaded', function() {
+            renderOptions(options);
+        });
+    }
+
+    if (1 === document.querySelectorAll('script.flasher-js').length) {
+        document.addEventListener('flasher:render', function (event) {
+            render(event.detail);
+        });
+
+        
+    }
+
+    if (window.hasOwnProperty('flasher') || !rootScript || document.querySelector('script[src="' + rootScript + '"]')) {
+        render(options);
+    } else {
+        var tag = document.createElement('script');
+        tag.setAttribute('src', rootScript);
+        tag.setAttribute('type', 'text/javascript');
+        tag.onload = function () {
+            render(options);
+        };
+
+        document.head.appendChild(tag);
+    }
+})();
+</script>
+</head>
+
+<body>
+    <div id="wrapper">
+        <form method="POST" action="http://localhost:8000/handle" accept-charset="UTF-8" id="form-login"><input name="_token" type="hidden" value="mVbha1BKmDRum1xs0mPRWPhWLLGTvfFsXAoRNYim">
+        <input type="hidden" name="_token" value="mVbha1BKmDRum1xs0mPRWPhWLLGTvfFsXAoRNYim">        <h1 class="form-heading">Đăng nhập</h1>
+        <div class="form-group">
+            <i class="far fa-user icon"></i>
+            <input class="form-input" placeholder="Tên đăng nhập" name="username" type="text">
+        </div>
+                <div class="form-group">
+            <i class="fas fa-key"></i>
+            <input class="form-input" placeholder="Mật khẩu" name="password" type="password" value="">
+            <div id="eye">
+                <i class="far fa-eye icon"></i>
+            </div>
+        </div>
+        
+        <div class="form-grou">
+            <input id="remember_me" name="remember_me" type="checkbox" value="1">
+            <label for="remember_me" class="remember m-0">Nhớ đăng nhập</label>
+        </div>
+        <input class="form-submit mb-2" name="btn-submit" type="submit" value="Đăng nhập">
+        <div class="support d-flex justify-content-between mt-2">
+            <a href="?mod=users&controller=team&action=reset">Quên mật khẩu?</a>
+        </div>
+        </form>
+</body>
+<script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+<script>
+    $(document).ready(function() {
+        $('#eye').click(function() {
+            $(this).toggleClass('open');
+            $(this).children('i').toggleClass('fa-eye-slash fa-eye');
+            if ($(this).hasClass('open')) {
+                $(this).prev().attr('type', 'text');
+            } else {
+                $(this).prev().attr('type', 'password');
+            }
+        });
+    });
+</script>
+
+</html>

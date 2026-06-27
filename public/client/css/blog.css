@@ -1,0 +1,43 @@
+#wp-blog {
+    font-size: large;
+    color: black;
+}
+#wp-blog .item {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    min-height: 220px;
+    transition: all 0.5s ease;
+}
+#wp-blog .item:hover {
+    background: #f8f6f6;
+}
+#wp-blog .item img {
+    width: 100%;
+    border-radius: 5px;
+    transition: all 0.5s ease;
+    height: 180px;
+}
+#wp-blog .item:hover img {
+    transform: translateY(-2px);
+}
+.wp-content-blog .title {
+    font-size: 22px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.wp-content-blog .title a {
+    color: black !important;
+}
+.wp-content-blog .atTime,
+.wp-content-blog .author {
+    font-size: small;
+    padding: 2px 0px;
+}
+.wp-content-blog .content-demo {
+    margin-top: 10px;
+}
+.wp-content-blog .content-demo a {
+    color: black;
+}

@@ -1,0 +1,1141 @@
+=== blogs.content_demo
+ID 8
+--- orig
+Quan chức Ukraine nói rằng Nga đã rút gần như toàn bộ lực lượng khỏi lãnh thổ quốc gia đồng minh Belarus.
+--- ftfy.fix_text
+Quan chức Ukraine nói rằng Nga đã rút gần như toàn bộ lực lượng khỏi lãnh thổ quốc gia đồng minh Belarus.
+--- ftfy.fix_encoding
+Quan chức Ukraine nói rằng Nga đã rút gần như toàn bộ lực lượng khỏi lãnh thổ quốc gia đồng minh Belarus.
+--- latin1->utf8
+Quan ch?c Ukraine n�i r?ng Nga ?� r�t g?n nh? to�n b? l?c l??ng kh?i l�nh th? qu?c gia ??ng minh Belarus.
+--- utf8bytes->latin1
+Quan chá»©c Ukraine nÃ³i ráº±ng Nga ÄÃ£ rÃºt gáº§n nhÆ° toÃ n bá» lá»±c lÆ°á»£ng khá»i lÃ£nh thá» quá»c gia Äá»ng minh Belarus.
+
+ID 9
+--- orig
+Tổng thống Hàn Quốc Yoon Suk-yeol đến Ukraine trong chuyến thăm không được thông báo rộng rãi trước đó.
+--- ftfy.fix_text
+Tổng thống Hàn Quốc Yoon Suk-yeol đến Ukraine trong chuyến thăm không được thông báo rộng rãi trước đó.
+--- ftfy.fix_encoding
+Tổng thống Hàn Quốc Yoon Suk-yeol đến Ukraine trong chuyến thăm không được thông báo rộng rãi trước đó.
+--- latin1->utf8
+T?ng th?ng H�n Qu?c Yoon Suk-yeol ??n Ukraine trong chuy?n th?m kh�ng ???c th�ng b�o r?ng r�i tr??c ?�.
+--- utf8bytes->latin1
+Tá»ng thá»ng HÃ n Quá»c Yoon Suk-yeol Äáº¿n Ukraine trong chuyáº¿n thÄm khÃ´ng ÄÆ°á»£c thÃ´ng bÃ¡o rá»ng rÃ£i trÆ°á»c ÄÃ³.
+
+ID 11
+--- orig
+Chuyến thăm của bà Kamala Harris, đánh dấu lần đầu tiên một phó tổng thống Mỹ thăm Việt Nam, diễn ra trong bối cảnh quan hệ song phương tiếp tục phát triển tích cực, nên được dư luận quốc tế quan tâm.
+--- ftfy.fix_text
+Chuyến thăm của bà Kamala Harris, đánh dấu lần đầu tiên một phó tổng thống Mỹ thăm Việt Nam, diễn ra trong bối cảnh quan hệ song phương tiếp tục phát triển tích cực, nên được dư luận quốc tế quan tâm.
+--- ftfy.fix_encoding
+Chuyến thăm của bà Kamala Harris, đánh dấu lần đầu tiên một phó tổng thống Mỹ thăm Việt Nam, diễn ra trong bối cảnh quan hệ song phương tiếp tục phát triển tích cực, nên được dư luận quốc tế quan tâm.
+--- latin1->utf8
+Chuy?n th?m c?a b� Kamala Harris, ?�nh d?u l?n ??u ti�n m?t ph� t?ng th?ng M? th?m Vi?t Nam, di?n ra trong b?i c?nh quan h? song ph??ng ti?p t?c ph�t tri?n t�ch c?c, n�n ???c d? lu?n qu?c t? quan t�m.
+--- utf8bytes->latin1
+Chuyáº¿n thÄm cá»§a bÃ  Kamala Harris, ÄÃ¡nh dáº¥u láº§n Äáº§u tiÃªn má»t phÃ³ tá»ng thá»ng Má»¹ thÄm Viá»t Nam, diá»n ra trong bá»i cáº£nh quan há» song phÆ°Æ¡ng tiáº¿p tá»¥c phÃ¡t triá»n tÃ­ch cá»±c, nÃªn ÄÆ°á»£c dÆ° luáº­n quá»c táº¿ quan tÃ¢m.
+
+ID 12
+--- orig
+Từ rác thải, chị Nguyễn Xuân Hoa ( Hải Phòng) đã tái chế thành những sản phẩm đẹp mắt, hữu dụng trong gia đình, góp phần lan toả tinh thần sống xanh.
+--- ftfy.fix_text
+Từ rác thải, chị Nguyễn Xuân Hoa ( Hải Phòng) đã tái chế thành những sản phẩm đẹp mắt, hữu dụng trong gia đình, góp phần lan toả tinh thần sống xanh.
+--- ftfy.fix_encoding
+Từ rác thải, chị Nguyễn Xuân Hoa ( Hải Phòng) đã tái chế thành những sản phẩm đẹp mắt, hữu dụng trong gia đình, góp phần lan toả tinh thần sống xanh.
+--- latin1->utf8
+T? r�c th?i, ch? Nguy?n Xu�n Hoa ( H?i Ph�ng) ?� t�i ch? th�nh nh?ng s?n ph?m ??p m?t, h?u d?ng trong gia ?�nh, g�p ph?n lan to? tinh th?n s?ng xanh.
+--- utf8bytes->latin1
+Tá»« rÃ¡c tháº£i, chá» Nguyá»n XuÃ¢n Hoa ( Háº£i PhÃ²ng) ÄÃ£ tÃ¡i cháº¿ thÃ nh nhá»¯ng sáº£n pháº©m Äáº¹p máº¯t, há»¯u dá»¥ng trong gia ÄÃ¬nh, gÃ³p pháº§n lan toáº£ tinh tháº§n sá»ng xanh.
+
+=== cat_blogs.name
+ID 13
+--- orig
+Bóng đá
+--- ftfy.fix_text
+Bóng đá
+--- ftfy.fix_encoding
+Bóng đá
+--- latin1->utf8
+B�ng ?�
+--- utf8bytes->latin1
+BÃ³ng ÄÃ¡
+
+ID 16
+--- orig
+Xã hội
+--- ftfy.fix_text
+Xã hội
+--- ftfy.fix_encoding
+Xã hội
+--- latin1->utf8
+X� h?i
+--- utf8bytes->latin1
+XÃ£ há»i
+
+ID 20
+--- orig
+Bóng đá
+--- ftfy.fix_text
+Bóng đá
+--- ftfy.fix_encoding
+Bóng đá
+--- latin1->utf8
+B�ng ?�
+--- utf8bytes->latin1
+BÃ³ng ÄÃ¡
+
+=== chat_messages.content
+ID 6
+--- orig
+Chào bạn! 👋
+
+Cửa hàng Cris Store chuyên bán các sản phẩm **nội thất gia đình** bao gồm:
+
+📺 **Kệ tivi**
+🛋️ **Bàn trà, ghế sofa, ghế gỗ tái chế**
+🍽️ **Bàn ăn**
+🛏️ **Giường ngủ**
+💄 **Bàn trang điểm**
+🍳 **Tủ bếp**
+🪑 **Bộ bàn ghế cao su tái chế**
+🚗 **Bộ bàn ghế lốp xe tái chế**
+🏡 **Xích đu sân vườn**
+🌿 *
+--- ftfy.fix_text
+Chào bạn! 👋
+
+Cửa hàng Cris Store chuyên bán các sản phẩm **nội thất gia đình** bao gồm:
+
+📺 **Kệ tivi**
+🛋️ **Bàn trà, ghế sofa, ghế gỗ tái chế**
+🍽️ **Bàn ăn**
+🛏️ **Giường ngủ**
+💄 **Bàn trang điểm**
+🍳 **Tủ bếp**
+🪑 **Bộ bàn ghế cao su tái chế**
+🚗 **Bộ bàn ghế lốp xe tái chế**
+🏡 **Xích đu sân vườn**
+🌿 *
+--- ftfy.fix_encoding
+Chào bạn! 👋
+
+Cửa hàng Cris Store chuyên bán các sản phẩm **nội thất gia đình** bao gồm:
+
+📺 **Kệ tivi**
+🛋️ **Bàn trà, ghế sofa, ghế gỗ tái chế**
+🍽️ **Bàn ăn**
+🛏️ **Giường ngủ**
+💄 **Bàn trang điểm**
+🍳 **Tủ bếp**
+🪑 **Bộ bàn ghế cao su tái chế**
+🚗 **Bộ bàn ghế lốp xe tái chế**
+🏡 **Xích đu sân vườn**
+🌿 *
+--- latin1->utf8
+Ch�o b?n! ?
+
+C?a h�ng Cris Store chuy�n b�n c�c s?n ph?m **n?i th?t gia ?�nh** bao g?m:
+
+? **K? tivi**
+?? **B�n tr�, gh? sofa, gh? g? t�i ch?**
+?? **B�n ?n**
+?? **Gi??ng ng?**
+? **B�n trang ?i?m**
+? **T? b?p**
+? **B? b�n gh? cao su t�i ch?**
+? **B? b�n gh? l?p xe t�i ch?**
+? **X�ch ?u s�n v??n**
+? *
+--- utf8bytes->latin1
+ChÃ o báº¡n! ð
+
+Cá»­a hÃ ng Cris Store chuyÃªn bÃ¡n cÃ¡c sáº£n pháº©m **ná»i tháº¥t gia ÄÃ¬nh** bao gá»m:
+
+ðº **Ká» tivi**
+ðï¸ **BÃ n trÃ , gháº¿ sofa, gháº¿ gá» tÃ¡i cháº¿**
+ð½ï¸ **BÃ n Än**
+ðï¸ **GiÆ°á»ng ngá»§**
+ð **BÃ n trang Äiá»m**
+ð³ **Tá»§ báº¿p**
+ðª **Bá» bÃ
+
+ID 8
+--- orig
+Chào bạn! 👋
+
+Dưới đây là thông tin về **Cris Store**:
+
+---
+
+**🏪 Cris Store - Nâng niu bàn chân Việt**
+
+📍 **Địa chỉ:** Tọa lạc tại Đại học Công nghệ Đông Á
+
+📞 **Hotline:** 19006750
+
+📧 **Email:** quannguyen04082004@gmail.com
+
+---
+
+**🛋️ Sản phẩm chính:**
+Cris Store chuyên bán các sản phẩm nội thất gia 
+--- ftfy.fix_text
+Chào bạn! 👋
+
+Dưới đây là thông tin về **Cris Store**:
+
+---
+
+**🏪 Cris Store - Nâng niu bàn chân Việt**
+
+📍 **Địa chỉ:** Tọa lạc tại Đại học Công nghệ Đông Á
+
+📞 **Hotline:** 19006750
+
+📧 **Email:** quannguyen04082004@gmail.com
+
+---
+
+**🛋️ Sản phẩm chính:**
+Cris Store chuyên bán các sản phẩm nội thất gia 
+--- ftfy.fix_encoding
+Chào bạn! 👋
+
+Dưới đây là thông tin về **Cris Store**:
+
+---
+
+**🏪 Cris Store - Nâng niu bàn chân Việt**
+
+📍 **Địa chỉ:** Tọa lạc tại Đại học Công nghệ Đông Á
+
+📞 **Hotline:** 19006750
+
+📧 **Email:** quannguyen04082004@gmail.com
+
+---
+
+**🛋️ Sản phẩm chính:**
+Cris Store chuyên bán các sản phẩm nội thất gia 
+--- latin1->utf8
+Ch�o b?n! ?
+
+D??i ?�y l� th�ng tin v? **Cris Store**:
+
+---
+
+**? Cris Store - N�ng niu b�n ch�n Vi?t**
+
+? **??a ch?:** T?a l?c t?i ??i h?c C�ng ngh? ?�ng �
+
+? **Hotline:** 19006750
+
+? **Email:** quannguyen04082004@gmail.com
+
+---
+
+**?? S?n ph?m ch�nh:**
+Cris Store chuy�n b�n c�c s?n ph?m n?i th?t gia 
+--- utf8bytes->latin1
+ChÃ o báº¡n! ð
+
+DÆ°á»i ÄÃ¢y lÃ  thÃ´ng tin vá» **Cris Store**:
+
+---
+
+**ðª Cris Store - NÃ¢ng niu bÃ n chÃ¢n Viá»t**
+
+ð **Äá»a chá»:** Tá»a láº¡c táº¡i Äáº¡i há»c CÃ´ng nghá» ÄÃ´ng Ã
+
+ð **Hotline:** 19006750
+
+ð§ **Email:** quannguyen04082004@gmail.com
+
+---
+
+**ðï¸ Sáº£n p
+
+ID 10
+--- orig
+Có bạn! 👋
+
+Cris Store **có bán bàn giường ngủ** nhé! 🛏️
+
+Cửa hàng chuyên bán các sản phẩm nội thất gia đình bao gồm:
+
+- **Giường ngủ** ✅
+- Kệ tivi, bàn trà, bàn ăn
+- Bàn trang điểm, tủ bếp
+- Ghế sofa, ghế gỗ tái chế
+- Xích đu sân vườn
+- Cây xanh trang trí từ chai nhựa tái chế
+- Bộ bàn ghế cao su tái
+--- ftfy.fix_text
+Có bạn! 👋
+
+Cris Store **có bán bàn giường ngủ** nhé! 🛏️
+
+Cửa hàng chuyên bán các sản phẩm nội thất gia đình bao gồm:
+
+- **Giường ngủ** ✅
+- Kệ tivi, bàn trà, bàn ăn
+- Bàn trang điểm, tủ bếp
+- Ghế sofa, ghế gỗ tái chế
+- Xích đu sân vườn
+- Cây xanh trang trí từ chai nhựa tái chế
+- Bộ bàn ghế cao su tái
+--- ftfy.fix_encoding
+Có bạn! 👋
+
+Cris Store **có bán bàn giường ngủ** nhé! 🛏️
+
+Cửa hàng chuyên bán các sản phẩm nội thất gia đình bao gồm:
+
+- **Giường ngủ** ✅
+- Kệ tivi, bàn trà, bàn ăn
+- Bàn trang điểm, tủ bếp
+- Ghế sofa, ghế gỗ tái chế
+- Xích đu sân vườn
+- Cây xanh trang trí từ chai nhựa tái chế
+- Bộ bàn ghế cao su tái
+--- latin1->utf8
+C� b?n! ?
+
+Cris Store **c� b�n b�n gi??ng ng?** nh�! ??
+
+C?a h�ng chuy�n b�n c�c s?n ph?m n?i th?t gia ?�nh bao g?m:
+
+- **Gi??ng ng?** ?
+- K? tivi, b�n tr�, b�n ?n
+- B�n trang ?i?m, t? b?p
+- Gh? sofa, gh? g? t�i ch?
+- X�ch ?u s�n v??n
+- C�y xanh trang tr� t? chai nh?a t�i ch?
+- B? b�n gh? cao su t�i
+--- utf8bytes->latin1
+CÃ³ báº¡n! ð
+
+Cris Store **cÃ³ bÃ¡n bÃ n giÆ°á»ng ngá»§** nhÃ©! ðï¸
+
+Cá»­a hÃ ng chuyÃªn bÃ¡n cÃ¡c sáº£n pháº©m ná»i tháº¥t gia ÄÃ¬nh bao gá»m:
+
+- **GiÆ°á»ng ngá»§** â
+- Ká» tivi, bÃ n trÃ , bÃ n Än
+- BÃ n trang Äiá»m, tá»§ báº¿p
+- Gháº¿ sofa, gháº¿ gá» tÃ¡i cháº¿
+- XÃ­ch Äu sÃ¢n
+
+ID 14
+--- orig
+Xin chào bạn! 👋
+
+Hiện tại mình chưa có thông tin cụ thể về các chương trình khuyến mãi đang diễn ra tại Cris Store.
+
+Bạn có thể liên hệ trực tiếp với Cris Store để được cập nhật ưu đãi mới nhất:
+
+- **Hotline:** 19006750
+- **Email:** quannguyen04082004@gmail.com
+- **Địa chỉ:** Đại học Công nghệ Đông 
+--- ftfy.fix_text
+Xin chào bạn! 👋
+
+Hiện tại mình chưa có thông tin cụ thể về các chương trình khuyến mãi đang diễn ra tại Cris Store.
+
+Bạn có thể liên hệ trực tiếp với Cris Store để được cập nhật ưu đãi mới nhất:
+
+- **Hotline:** 19006750
+- **Email:** quannguyen04082004@gmail.com
+- **Địa chỉ:** Đại học Công nghệ Đông 
+--- ftfy.fix_encoding
+Xin chào bạn! 👋
+
+Hiện tại mình chưa có thông tin cụ thể về các chương trình khuyến mãi đang diễn ra tại Cris Store.
+
+Bạn có thể liên hệ trực tiếp với Cris Store để được cập nhật ưu đãi mới nhất:
+
+- **Hotline:** 19006750
+- **Email:** quannguyen04082004@gmail.com
+- **Địa chỉ:** Đại học Công nghệ Đông 
+--- latin1->utf8
+Xin ch�o b?n! ?
+
+Hi?n t?i m�nh ch?a c� th�ng tin c? th? v? c�c ch??ng tr�nh khuy?n m�i ?ang di?n ra t?i Cris Store.
+
+B?n c� th? li�n h? tr?c ti?p v?i Cris Store ?? ???c c?p nh?t ?u ?�i m?i nh?t:
+
+- **Hotline:** 19006750
+- **Email:** quannguyen04082004@gmail.com
+- **??a ch?:** ??i h?c C�ng ngh? ?�ng 
+--- utf8bytes->latin1
+Xin chÃ o báº¡n! ð
+
+Hiá»n táº¡i mÃ¬nh chÆ°a cÃ³ thÃ´ng tin cá»¥ thá» vá» cÃ¡c chÆ°Æ¡ng trÃ¬nh khuyáº¿n mÃ£i Äang diá»n ra táº¡i Cris Store.
+
+Báº¡n cÃ³ thá» liÃªn há» trá»±c tiáº¿p vá»i Cris Store Äá» ÄÆ°á»£c cáº­p nháº­t Æ°u ÄÃ£i má»i nháº¥t:
+
+- **Hotline:** 19006750
+- **Email:** qua
+
+ID 16
+--- orig
+Xin chào bạn! 👋
+
+Mình là trợ lý của **Cris Store** - cửa hàng chuyên bán nội thất gia đình.
+
+**Về Cris Store:**
+- 📍 Địa chỉ: Tọa lạc tại Đại học Công nghệ Đông Á
+- 📞 Hotline: **1900 6750**
+- 📧 Email: quannguyen04082004@gmail.com
+
+**Sản phẩm chính:**
+Cris Store chuyên cung cấp các sản phẩm nội thất g
+--- ftfy.fix_text
+Xin chào bạn! 👋
+
+Mình là trợ lý của **Cris Store** - cửa hàng chuyên bán nội thất gia đình.
+
+**Về Cris Store:**
+- 📍 Địa chỉ: Tọa lạc tại Đại học Công nghệ Đông Á
+- 📞 Hotline: **1900 6750**
+- 📧 Email: quannguyen04082004@gmail.com
+
+**Sản phẩm chính:**
+Cris Store chuyên cung cấp các sản phẩm nội thất g
+--- ftfy.fix_encoding
+Xin chào bạn! 👋
+
+Mình là trợ lý của **Cris Store** - cửa hàng chuyên bán nội thất gia đình.
+
+**Về Cris Store:**
+- 📍 Địa chỉ: Tọa lạc tại Đại học Công nghệ Đông Á
+- 📞 Hotline: **1900 6750**
+- 📧 Email: quannguyen04082004@gmail.com
+
+**Sản phẩm chính:**
+Cris Store chuyên cung cấp các sản phẩm nội thất g
+--- latin1->utf8
+Xin ch�o b?n! ?
+
+M�nh l� tr? l� c?a **Cris Store** - c?a h�ng chuy�n b�n n?i th?t gia ?�nh.
+
+**V? Cris Store:**
+- ? ??a ch?: T?a l?c t?i ??i h?c C�ng ngh? ?�ng �
+- ? Hotline: **1900 6750**
+- ? Email: quannguyen04082004@gmail.com
+
+**S?n ph?m ch�nh:**
+Cris Store chuy�n cung c?p c�c s?n ph?m n?i th?t g
+--- utf8bytes->latin1
+Xin chÃ o báº¡n! ð
+
+MÃ¬nh lÃ  trá»£ lÃ½ cá»§a **Cris Store** - cá»­a hÃ ng chuyÃªn bÃ¡n ná»i tháº¥t gia ÄÃ¬nh.
+
+**Vá» Cris Store:**
+- ð Äá»a chá»: Tá»a láº¡c táº¡i Äáº¡i há»c CÃ´ng nghá» ÄÃ´ng Ã
+- ð Hotline: **1900 6750**
+- ð§ Email: quannguyen04082004@gmail.com
+
+**Sáº£n pháº©
+
+ID 18
+--- orig
+Chào bạn! 😊
+
+**Cris Store** chuyên bán các sản phẩm **nội thất gia đình**, bao gồm:
+
+🪑 **Bàn ghế:**
+- Kệ tivi, bàn trà, bàn ăn
+- Ghế sofa, ghế gỗ tái chế
+- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái ché
+
+🛏️ **Giường & Tủ:**
+- Giường ngủ, bàn trang điểm, tủ bếp
+
+🌿 **Trang trí & Ngoại thất:**
+- 
+--- ftfy.fix_text
+Chào bạn! 😊
+
+**Cris Store** chuyên bán các sản phẩm **nội thất gia đình**, bao gồm:
+
+🪑 **Bàn ghế:**
+- Kệ tivi, bàn trà, bàn ăn
+- Ghế sofa, ghế gỗ tái chế
+- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái ché
+
+🛏️ **Giường & Tủ:**
+- Giường ngủ, bàn trang điểm, tủ bếp
+
+🌿 **Trang trí & Ngoại thất:**
+- 
+--- ftfy.fix_encoding
+Chào bạn! 😊
+
+**Cris Store** chuyên bán các sản phẩm **nội thất gia đình**, bao gồm:
+
+🪑 **Bàn ghế:**
+- Kệ tivi, bàn trà, bàn ăn
+- Ghế sofa, ghế gỗ tái chế
+- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái ché
+
+🛏️ **Giường & Tủ:**
+- Giường ngủ, bàn trang điểm, tủ bếp
+
+🌿 **Trang trí & Ngoại thất:**
+- 
+--- latin1->utf8
+Ch�o b?n! ?
+
+**Cris Store** chuy�n b�n c�c s?n ph?m **n?i th?t gia ?�nh**, bao g?m:
+
+? **B�n gh?:**
+- K? tivi, b�n tr�, b�n ?n
+- Gh? sofa, gh? g? t�i ch?
+- B? b�n gh? cao su t�i ch?, b? b�n gh? l?p xe t�i ch�
+
+?? **Gi??ng & T?:**
+- Gi??ng ng?, b�n trang ?i?m, t? b?p
+
+? **Trang tr� & Ngo?i th?t:**
+- 
+--- utf8bytes->latin1
+ChÃ o báº¡n! ð
+
+**Cris Store** chuyÃªn bÃ¡n cÃ¡c sáº£n pháº©m **ná»i tháº¥t gia ÄÃ¬nh**, bao gá»m:
+
+ðª **BÃ n gháº¿:**
+- Ká» tivi, bÃ n trÃ , bÃ n Än
+- Gháº¿ sofa, gháº¿ gá» tÃ¡i cháº¿
+- Bá» bÃ n gháº¿ cao su tÃ¡i cháº¿, bá» bÃ n gháº¿ lá»p xe tÃ¡i chÃ©
+
+ðï¸ **GiÆ°á»ng & Tá»§:**
+-
+
+ID 20
+--- orig
+Chào bạn! 😊
+
+**Cris Store** chuyên bán các sản phẩm **nội thất gia đình**, bao gồm:
+
+🪑 **Bàn ghế:**
+- Kệ tivi, bàn trà, bàn ăn
+- Ghế sofa, ghế gỗ tái chế
+- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái ché
+
+🛏️ **Giường & Tủ:**
+- Giường ngủ, bàn trang điểm, tủ bếp
+
+🌿 **Trang trí & Ngoại thất:**
+- 
+--- ftfy.fix_text
+Chào bạn! 😊
+
+**Cris Store** chuyên bán các sản phẩm **nội thất gia đình**, bao gồm:
+
+🪑 **Bàn ghế:**
+- Kệ tivi, bàn trà, bàn ăn
+- Ghế sofa, ghế gỗ tái chế
+- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái ché
+
+🛏️ **Giường & Tủ:**
+- Giường ngủ, bàn trang điểm, tủ bếp
+
+🌿 **Trang trí & Ngoại thất:**
+- 
+--- ftfy.fix_encoding
+Chào bạn! 😊
+
+**Cris Store** chuyên bán các sản phẩm **nội thất gia đình**, bao gồm:
+
+🪑 **Bàn ghế:**
+- Kệ tivi, bàn trà, bàn ăn
+- Ghế sofa, ghế gỗ tái chế
+- Bộ bàn ghế cao su tái chế, bộ bàn ghế lốp xe tái ché
+
+🛏️ **Giường & Tủ:**
+- Giường ngủ, bàn trang điểm, tủ bếp
+
+🌿 **Trang trí & Ngoại thất:**
+- 
+--- latin1->utf8
+Ch�o b?n! ?
+
+**Cris Store** chuy�n b�n c�c s?n ph?m **n?i th?t gia ?�nh**, bao g?m:
+
+? **B�n gh?:**
+- K? tivi, b�n tr�, b�n ?n
+- Gh? sofa, gh? g? t�i ch?
+- B? b�n gh? cao su t�i ch?, b? b�n gh? l?p xe t�i ch�
+
+?? **Gi??ng & T?:**
+- Gi??ng ng?, b�n trang ?i?m, t? b?p
+
+? **Trang tr� & Ngo?i th?t:**
+- 
+--- utf8bytes->latin1
+ChÃ o báº¡n! ð
+
+**Cris Store** chuyÃªn bÃ¡n cÃ¡c sáº£n pháº©m **ná»i tháº¥t gia ÄÃ¬nh**, bao gá»m:
+
+ðª **BÃ n gháº¿:**
+- Ká» tivi, bÃ n trÃ , bÃ n Än
+- Gháº¿ sofa, gháº¿ gá» tÃ¡i cháº¿
+- Bá» bÃ n gháº¿ cao su tÃ¡i cháº¿, bá» bÃ n gháº¿ lá»p xe tÃ¡i chÃ©
+
+ðï¸ **GiÆ°á»ng & Tá»§:**
+-
+
+ID 21
+--- orig
+hãy xuất file excle báo giá 1 vài sản phẩm nổi bật
+--- ftfy.fix_text
+hãy xuất file excle báo giá 1 vài sản phẩm nổi bật
+--- ftfy.fix_encoding
+hãy xuất file excle báo giá 1 vài sản phẩm nổi bật
+--- latin1->utf8
+h�y xu?t file excle b�o gi� 1 v�i s?n ph?m n?i b?t
+--- utf8bytes->latin1
+hÃ£y xuáº¥t file excle bÃ¡o giÃ¡ 1 vÃ i sáº£n pháº©m ná»i báº­t
+
+ID 23
+--- orig
+hãy xuất file excle báo giá 1 vài sản phẩm nổi bật
+--- ftfy.fix_text
+hãy xuất file excle báo giá 1 vài sản phẩm nổi bật
+--- ftfy.fix_encoding
+hãy xuất file excle báo giá 1 vài sản phẩm nổi bật
+--- latin1->utf8
+h�y xu?t file excle b�o gi� 1 v�i s?n ph?m n?i b?t
+--- utf8bytes->latin1
+hÃ£y xuáº¥t file excle bÃ¡o giÃ¡ 1 vÃ i sáº£n pháº©m ná»i báº­t
+
+ID 24
+--- orig
+Dưới đây là bảng báo giá một vài sản phẩm nổi bật tại **Cris Store**:
+
+| **STT** | **Tên sản phẩm** | **Đơn giá (VNĐ)** |
+|---------|-------------------|-------------------|
+| 1 | Kệ tivi | 1.500.000 |
+| 2 | Bàn trà | 1.200.000 |
+| 3 | Bàn ăn | 2.000.000 |
+| 4 | Giường ngủ | 3.500.000 |
+| 5 | Ghế so
+--- ftfy.fix_text
+Dưới đây là bảng báo giá một vài sản phẩm nổi bật tại **Cris Store**:
+
+| **STT** | **Tên sản phẩm** | **Đơn giá (VNĐ)** |
+|---------|-------------------|-------------------|
+| 1 | Kệ tivi | 1.500.000 |
+| 2 | Bàn trà | 1.200.000 |
+| 3 | Bàn ăn | 2.000.000 |
+| 4 | Giường ngủ | 3.500.000 |
+| 5 | Ghế so
+--- ftfy.fix_encoding
+Dưới đây là bảng báo giá một vài sản phẩm nổi bật tại **Cris Store**:
+
+| **STT** | **Tên sản phẩm** | **Đơn giá (VNĐ)** |
+|---------|-------------------|-------------------|
+| 1 | Kệ tivi | 1.500.000 |
+| 2 | Bàn trà | 1.200.000 |
+| 3 | Bàn ăn | 2.000.000 |
+| 4 | Giường ngủ | 3.500.000 |
+| 5 | Ghế so
+--- latin1->utf8
+D??i ?�y l� b?ng b�o gi� m?t v�i s?n ph?m n?i b?t t?i **Cris Store**:
+
+| **STT** | **T�n s?n ph?m** | **??n gi� (VN?)** |
+|---------|-------------------|-------------------|
+| 1 | K? tivi | 1.500.000 |
+| 2 | B�n tr� | 1.200.000 |
+| 3 | B�n ?n | 2.000.000 |
+| 4 | Gi??ng ng? | 3.500.000 |
+| 5 | Gh? so
+--- utf8bytes->latin1
+DÆ°á»i ÄÃ¢y lÃ  báº£ng bÃ¡o giÃ¡ má»t vÃ i sáº£n pháº©m ná»i báº­t táº¡i **Cris Store**:
+
+| **STT** | **TÃªn sáº£n pháº©m** | **ÄÆ¡n giÃ¡ (VNÄ)** |
+|---------|-------------------|-------------------|
+| 1 | Ká» tivi | 1.500.000 |
+| 2 | BÃ n trÃ  | 1.200.000 |
+| 3 | BÃ n Än | 2.000.000 |
+| 4 |
+
+ID 27
+--- orig
+### Câu trả lời dựa trên dữ liệu cơ sở:
+
+Chúng tôi chỉ được trả lời thông tin liên quan trực tiếp đến **Cris Store**, như sau:
+
+---
+
+### 🔍 Thông tin sản phẩm đang có (Từ `KNOWLEDGE`):
+- **Kệ tiệp kết hợp bàn trà** – 9 lượt mua, giá 2.430.000đ  
+- **Kệ tiệp kết hợp bàn trà Bắc Âu** – 8 lượt mua, giá 
+--- ftfy.fix_text
+### Câu trả lời dựa trên dữ liệu cơ sở:
+
+Chúng tôi chỉ được trả lời thông tin liên quan trực tiếp đến **Cris Store**, như sau:
+
+---
+
+### 🔍 Thông tin sản phẩm đang có (Từ `KNOWLEDGE`):
+- **Kệ tiệp kết hợp bàn trà** – 9 lượt mua, giá 2.430.000đ  
+- **Kệ tiệp kết hợp bàn trà Bắc Âu** – 8 lượt mua, giá 
+--- ftfy.fix_encoding
+### Câu trả lời dựa trên dữ liệu cơ sở:
+
+Chúng tôi chỉ được trả lời thông tin liên quan trực tiếp đến **Cris Store**, như sau:
+
+---
+
+### 🔍 Thông tin sản phẩm đang có (Từ `KNOWLEDGE`):
+- **Kệ tiệp kết hợp bàn trà** – 9 lượt mua, giá 2.430.000đ  
+- **Kệ tiệp kết hợp bàn trà Bắc Âu** – 8 lượt mua, giá 
+--- latin1->utf8
+### C�u tr? l?i d?a tr�n d? li?u c? s?:
+
+Ch�ng t�i ch? ???c tr? l?i th�ng tin li�n quan tr?c ti?p ??n **Cris Store**, nh? sau:
+
+---
+
+### ? Th�ng tin s?n ph?m ?ang c� (T? `KNOWLEDGE`):
+- **K? ti?p k?t h?p b�n tr�** ? 9 l??t mua, gi� 2.430.000?  
+- **K? ti?p k?t h?p b�n tr� B?c �u** ? 8 l??t mua, gi� 
+--- utf8bytes->latin1
+### CÃ¢u tráº£ lá»i dá»±a trÃªn dá»¯ liá»u cÆ¡ sá»:
+
+ChÃºng tÃ´i chá» ÄÆ°á»£c tráº£ lá»i thÃ´ng tin liÃªn quan trá»±c tiáº¿p Äáº¿n **Cris Store**, nhÆ° sau:
+
+---
+
+### ð ThÃ´ng tin sáº£n pháº©m Äang cÃ³ (Tá»« `KNOWLEDGE`):
+- **Ká» tiá»p káº¿t há»£p bÃ n trÃ ** â 9 lÆ°á»£t mua, giÃ¡ 2.4
+
+ID 29
+--- orig
+📋 **Các sản phẩm được bán tại Cris Store:**
+
+- **Kệ TI VI KẾT HỢP BÀN TRÀ**  
+  - Số lượt mua: 9  
+  - Giá: 2.430.000đ  
+
+- **KATINA KỆ TI VI KẾT HỢP BÀN TRÀ BẮC ÂU**  
+  - Số lượt mua: 8  
+  - Giá: 6.100.000đ  
+
+- **Xích đu sân vườn thời trang cao su tái chế**  
+  - Số lượt mua: 6  
+  - Giá: 600.00
+--- ftfy.fix_text
+📋 **Các sản phẩm được bán tại Cris Store:**
+
+- **Kệ TI VI KẾT HỢP BÀN TRÀ**  
+  - Số lượt mua: 9  
+  - Giá: 2.430.000đ  
+
+- **KATINA KỆ TI VI KẾT HỢP BÀN TRÀ BẮC ÂU**  
+  - Số lượt mua: 8  
+  - Giá: 6.100.000đ  
+
+- **Xích đu sân vườn thời trang cao su tái chế**  
+  - Số lượt mua: 6  
+  - Giá: 600.00
+--- ftfy.fix_encoding
+📋 **Các sản phẩm được bán tại Cris Store:**
+
+- **Kệ TI VI KẾT HỢP BÀN TRÀ**  
+  - Số lượt mua: 9  
+  - Giá: 2.430.000đ  
+
+- **KATINA KỆ TI VI KẾT HỢP BÀN TRÀ BẮC ÂU**  
+  - Số lượt mua: 8  
+  - Giá: 6.100.000đ  
+
+- **Xích đu sân vườn thời trang cao su tái chế**  
+  - Số lượt mua: 6  
+  - Giá: 600.00
+--- latin1->utf8
+? **C�c s?n ph?m ???c b�n t?i Cris Store:**
+
+- **K? TI VI K?T H?P B�N TR�**  
+  - S? l??t mua: 9  
+  - Gi�: 2.430.000?  
+
+- **KATINA K? TI VI K?T H?P B�N TR� B?C �U**  
+  - S? l??t mua: 8  
+  - Gi�: 6.100.000?  
+
+- **X�ch ?u s�n v??n th?i trang cao su t�i ch?**  
+  - S? l??t mua: 6  
+  - Gi�: 600.00
+--- utf8bytes->latin1
+ð **CÃ¡c sáº£n pháº©m ÄÆ°á»£c bÃ¡n táº¡i Cris Store:**
+
+- **Ká» TI VI Káº¾T Há»¢P BÃN TRÃ**  
+  - Sá» lÆ°á»£t mua: 9  
+  - GiÃ¡: 2.430.000Ä  
+
+- **KATINA Ká» TI VI Káº¾T Há»¢P BÃN TRÃ Báº®C ÃU**  
+  - Sá» lÆ°á»£t mua: 8  
+  - GiÃ¡: 6.100.000Ä  
+
+- **XÃ­ch Äu sÃ¢n vÆ°á»n thá»i trang
+
+ID 31
+--- orig
+📥 **Tải Excel của Cris Store**  
+
+Để tải file Excel, hãy thực hiện các bước sau:
+
+1. **Đăng nhập vào trang admin Cris Store**  
+2. Truy cập cảng thả xuất Excel và chọn **Export**.  
+3. Chọn địa chỉ URL sau:  
+   ```markdown
+   [📥 Tải Excel](http://localhost:8000/admin/chatbox/export/10)
+   ```  
+4. 
+--- ftfy.fix_text
+📥 **Tải Excel của Cris Store**  
+
+Để tải file Excel, hãy thực hiện các bước sau:
+
+1. **Đăng nhập vào trang admin Cris Store**  
+2. Truy cập cảng thả xuất Excel và chọn **Export**.  
+3. Chọn địa chỉ URL sau:  
+   ```markdown
+   [📥 Tải Excel](http://localhost:8000/admin/chatbox/export/10)
+   ```  
+4. 
+--- ftfy.fix_encoding
+📥 **Tải Excel của Cris Store**  
+
+Để tải file Excel, hãy thực hiện các bước sau:
+
+1. **Đăng nhập vào trang admin Cris Store**  
+2. Truy cập cảng thả xuất Excel và chọn **Export**.  
+3. Chọn địa chỉ URL sau:  
+   ```markdown
+   [📥 Tải Excel](http://localhost:8000/admin/chatbox/export/10)
+   ```  
+4. 
+--- latin1->utf8
+? **T?i Excel c?a Cris Store**  
+
+?? t?i file Excel, h�y th?c hi?n c�c b??c sau:
+
+1. **??ng nh?p v�o trang admin Cris Store**  
+2. Truy c?p c?ng th? xu?t Excel v� ch?n **Export**.  
+3. Ch?n ??a ch? URL sau:  
+   ```markdown
+   [? T?i Excel](http://localhost:8000/admin/chatbox/export/10)
+   ```  
+4. 
+--- utf8bytes->latin1
+ð¥ **Táº£i Excel cá»§a Cris Store**  
+
+Äá» táº£i file Excel, hÃ£y thá»±c hiá»n cÃ¡c bÆ°á»c sau:
+
+1. **ÄÄng nháº­p vÃ o trang admin Cris Store**  
+2. Truy cáº­p cáº£ng tháº£ xuáº¥t Excel vÃ  chá»n **Export**.  
+3. Chá»n Äá»a chá» URL sau:  
+   ```markdown
+   [ð¥ Táº£i Excel](http://loc
+
+ID 33
+--- orig
+✅ **Định dạng file Excel đã được tạo:**  
+[📥 Tải Excel Cris Store](http://localhost:8000/admin/chatbox/export/10)  
+
+📄 **Thông tin tải:**  
+- File được tải từ URL trên được **tách biệt** theo các bảng (sản phẩm, đơn hàng, giá).  
+- Có thông tin chi tiết về sản phẩm, đơn hàng, và giao hàng được ghi c
+--- ftfy.fix_text
+✅ **Định dạng file Excel đã được tạo:**  
+[📥 Tải Excel Cris Store](http://localhost:8000/admin/chatbox/export/10)  
+
+📄 **Thông tin tải:**  
+- File được tải từ URL trên được **tách biệt** theo các bảng (sản phẩm, đơn hàng, giá).  
+- Có thông tin chi tiết về sản phẩm, đơn hàng, và giao hàng được ghi c
+--- ftfy.fix_encoding
+✅ **Định dạng file Excel đã được tạo:**  
+[📥 Tải Excel Cris Store](http://localhost:8000/admin/chatbox/export/10)  
+
+📄 **Thông tin tải:**  
+- File được tải từ URL trên được **tách biệt** theo các bảng (sản phẩm, đơn hàng, giá).  
+- Có thông tin chi tiết về sản phẩm, đơn hàng, và giao hàng được ghi c
+--- latin1->utf8
+? **??nh d?ng file Excel ?� ???c t?o:**  
+[? T?i Excel Cris Store](http://localhost:8000/admin/chatbox/export/10)  
+
+? **Th�ng tin t?i:**  
+- File ???c t?i t? URL tr�n ???c **t�ch bi?t** theo c�c b?ng (s?n ph?m, ??n h�ng, gi�).  
+- C� th�ng tin chi ti?t v? s?n ph?m, ??n h�ng, v� giao h�ng ???c ghi c
+--- utf8bytes->latin1
+â **Äá»nh dáº¡ng file Excel ÄÃ£ ÄÆ°á»£c táº¡o:**  
+[ð¥ Táº£i Excel Cris Store](http://localhost:8000/admin/chatbox/export/10)  
+
+ð **ThÃ´ng tin táº£i:**  
+- File ÄÆ°á»£c táº£i tá»« URL trÃªn ÄÆ°á»£c **tÃ¡ch biá»t** theo cÃ¡c báº£ng (sáº£n pháº©m, ÄÆ¡n hÃ ng, giÃ¡).  
+- CÃ³ thÃ´ng tin 
+
+ID 35
+--- orig
+📊 **Xuất dữ liệu sản phẩm được bán tại Cris Store**  
+
+Để tải file Excel, hãy tham khảo **các bảng sau** (tên tệp được tạo theo định dạng `.xlsx`):  
+
+1. **Sản phẩm - Kệ TI VI KẾT HỢP BÀN TRÀ**  
+   - Số lượt mua: 9  
+   - Giá: 2.430.000đ  
+
+2. **Sản phẩm - Kệ TI VI KẾT HỢP BÀN TRÀ BẮC ÂU**  
+   - S
+--- ftfy.fix_text
+📊 **Xuất dữ liệu sản phẩm được bán tại Cris Store**  
+
+Để tải file Excel, hãy tham khảo **các bảng sau** (tên tệp được tạo theo định dạng `.xlsx`):  
+
+1. **Sản phẩm - Kệ TI VI KẾT HỢP BÀN TRÀ**  
+   - Số lượt mua: 9  
+   - Giá: 2.430.000đ  
+
+2. **Sản phẩm - Kệ TI VI KẾT HỢP BÀN TRÀ BẮC ÂU**  
+   - S
+--- ftfy.fix_encoding
+📊 **Xuất dữ liệu sản phẩm được bán tại Cris Store**  
+
+Để tải file Excel, hãy tham khảo **các bảng sau** (tên tệp được tạo theo định dạng `.xlsx`):  
+
+1. **Sản phẩm - Kệ TI VI KẾT HỢP BÀN TRÀ**  
+   - Số lượt mua: 9  
+   - Giá: 2.430.000đ  
+
+2. **Sản phẩm - Kệ TI VI KẾT HỢP BÀN TRÀ BẮC ÂU**  
+   - S
+--- latin1->utf8
+? **Xu?t d? li?u s?n ph?m ???c b�n t?i Cris Store**  
+
+?? t?i file Excel, h�y tham kh?o **c�c b?ng sau** (t�n t?p ???c t?o theo ??nh d?ng `.xlsx`):  
+
+1. **S?n ph?m - K? TI VI K?T H?P B�N TR�**  
+   - S? l??t mua: 9  
+   - Gi�: 2.430.000?  
+
+2. **S?n ph?m - K? TI VI K?T H?P B�N TR� B?C �U**  
+   - S
+--- utf8bytes->latin1
+ð **Xuáº¥t dá»¯ liá»u sáº£n pháº©m ÄÆ°á»£c bÃ¡n táº¡i Cris Store**  
+
+Äá» táº£i file Excel, hÃ£y tham kháº£o **cÃ¡c báº£ng sau** (tÃªn tá»p ÄÆ°á»£c táº¡o theo Äá»nh dáº¡ng `.xlsx`):  
+
+1. **Sáº£n pháº©m - Ká» TI VI Káº¾T Há»¢P BÃN TRÃ**  
+   - Sá» lÆ°á»£t mua: 9  
+   - GiÃ¡: 2.430.000
+
+ID 37
+--- orig
+**Đáp án chính xác:**  
+Cửa hàng Cris Store chủ yếu bán **giấy dép giày đá bóng** từ các thương hiệu như **Nike, Adidas, Puma, Mizuno**.  
+
+**Giải thích chi tiết:**  
+- Dữ liệu từ **KNOWLEDGE** chỉ định các thương hiệu chính được cung cấp.  
+- Thông tin được kiểm chứng từ **PRODUCT_RESULTS** và **OR
+--- ftfy.fix_text
+**Đáp án chính xác:**  
+Cửa hàng Cris Store chủ yếu bán **giấy dép giày đá bóng** từ các thương hiệu như **Nike, Adidas, Puma, Mizuno**.  
+
+**Giải thích chi tiết:**  
+- Dữ liệu từ **KNOWLEDGE** chỉ định các thương hiệu chính được cung cấp.  
+- Thông tin được kiểm chứng từ **PRODUCT_RESULTS** và **OR
+--- ftfy.fix_encoding
+**Đáp án chính xác:**  
+Cửa hàng Cris Store chủ yếu bán **giấy dép giày đá bóng** từ các thương hiệu như **Nike, Adidas, Puma, Mizuno**.  
+
+**Giải thích chi tiết:**  
+- Dữ liệu từ **KNOWLEDGE** chỉ định các thương hiệu chính được cung cấp.  
+- Thông tin được kiểm chứng từ **PRODUCT_RESULTS** và **OR
+--- latin1->utf8
+**?�p �n ch�nh x�c:**  
+C?a h�ng Cris Store ch? y?u b�n **gi?y d�p gi�y ?� b�ng** t? c�c th??ng hi?u nh? **Nike, Adidas, Puma, Mizuno**.  
+
+**Gi?i th�ch chi ti?t:**  
+- D? li?u t? **KNOWLEDGE** ch? ??nh c�c th??ng hi?u ch�nh ???c cung c?p.  
+- Th�ng tin ???c ki?m ch?ng t? **PRODUCT_RESULTS** v� **OR
+--- utf8bytes->latin1
+**ÄÃ¡p Ã¡n chÃ­nh xÃ¡c:**  
+Cá»­a hÃ ng Cris Store chá»§ yáº¿u bÃ¡n **giáº¥y dÃ©p giÃ y ÄÃ¡ bÃ³ng** tá»« cÃ¡c thÆ°Æ¡ng hiá»u nhÆ° **Nike, Adidas, Puma, Mizuno**.  
+
+**Giáº£i thÃ­ch chi tiáº¿t:**  
+- Dá»¯ liá»u tá»« **KNOWLEDGE** chá» Äá»nh cÃ¡c thÆ°Æ¡ng hiá»u chÃ­nh ÄÆ°á»£c cung cáº¥p.  
+- 
+
+=== orders.fullname
+ID 34
+--- orig
+Nguyễn Văn Quân
+--- ftfy.fix_text
+Nguyễn Văn Quân
+--- ftfy.fix_encoding
+Nguyễn Văn Quân
+--- latin1->utf8
+Nguy?n V?n Qu�n
+--- utf8bytes->latin1
+Nguyá»n VÄn QuÃ¢n
+
+=== permissions.name
+ID 22
+--- orig
+➻❥ Thêm giày đá bóng
+--- ftfy.fix_text
+➻❥ Thêm giày đá bóng
+--- ftfy.fix_encoding
+➻❥ Thêm giày đá bóng
+--- latin1->utf8
+?? Th�m gi�y ?� b�ng
+--- utf8bytes->latin1
+â»â¥ ThÃªm giÃ y ÄÃ¡ bÃ³ng
+
+ID 27
+--- orig
+➻❥ Cập nhật giày đá bóng
+--- ftfy.fix_text
+➻❥ Cập nhật giày đá bóng
+--- ftfy.fix_encoding
+➻❥ Cập nhật giày đá bóng
+--- latin1->utf8
+?? C?p nh?t gi�y ?� b�ng
+--- utf8bytes->latin1
+â»â¥ Cáº­p nháº­t giÃ y ÄÃ¡ bÃ³ng
+
+ID 28
+--- orig
+➻❥ Xóa tin tức giày
+--- ftfy.fix_text
+➻❥ Xóa tin tức giày
+--- ftfy.fix_encoding
+➻❥ Xóa tin tức giày
+--- latin1->utf8
+?? X�a tin t?c gi�y
+--- utf8bytes->latin1
+â»â¥ XÃ³a tin tá»©c giÃ y
+
+ID 29
+--- orig
+â»â¥ XÃ³a quáº£n trá»
+--- ftfy.fix_text
+➻❥ Xóa quản trị
+--- ftfy.fix_encoding
+➻❥ Xóa quản trị
+--- latin1->utf8
+➻❥ Xóa quản trị
+--- utf8bytes->latin1
+Ã¢ÂÂ»Ã¢ÂÂ¥ XÃÂ³a quÃ¡ÂºÂ£n trÃ¡Â»Â
+
+ID 33
+--- orig
+➻❥ Xóa giày đá bóng
+--- ftfy.fix_text
+➻❥ Xóa giày đá bóng
+--- ftfy.fix_encoding
+➻❥ Xóa giày đá bóng
+--- latin1->utf8
+?? X�a gi�y ?� b�ng
+--- utf8bytes->latin1
+â»â¥ XÃ³a giÃ y ÄÃ¡ bÃ³ng
+
+ID 35
+--- orig
+➻❥ Xem giày đá bóng
+--- ftfy.fix_text
+➻❥ Xem giày đá bóng
+--- ftfy.fix_encoding
+➻❥ Xem giày đá bóng
+--- latin1->utf8
+?? Xem gi�y ?� b�ng
+--- utf8bytes->latin1
+â»â¥ Xem giÃ y ÄÃ¡ bÃ³ng
+
+ID 41
+--- orig
+➻❥ Xóa vai trò
+--- ftfy.fix_text
+➻❥ Xóa vai trò
+--- ftfy.fix_encoding
+➻❥ Xóa vai trò
+--- latin1->utf8
+?? X�a vai tr�
+--- utf8bytes->latin1
+â»â¥ XÃ³a vai trÃ²
+
+ID 44
+--- orig
+â»â¥ XÃ³a quyá»n
+--- ftfy.fix_text
+➻❥ Xóa quyền
+--- ftfy.fix_encoding
+➻❥ Xóa quyền
+--- latin1->utf8
+➻❥ Xóa quyền
+--- utf8bytes->latin1
+Ã¢ÂÂ»Ã¢ÂÂ¥ XÃÂ³a quyÃ¡Â»Ân
+
+ID 50
+--- orig
+➻❥ Xóa slider
+--- ftfy.fix_text
+➻❥ Xóa slider
+--- ftfy.fix_encoding
+➻❥ Xóa slider
+--- latin1->utf8
+?? X�a slider
+--- utf8bytes->latin1
+â»â¥ XÃ³a slider
+
+ID 54
+--- orig
+➻❥ Xóa banner
+--- ftfy.fix_text
+➻❥ Xóa banner
+--- ftfy.fix_encoding
+➻❥ Xóa banner
+--- latin1->utf8
+?? X�a banner
+--- utf8bytes->latin1
+â»â¥ XÃ³a banner
+
+ID 59
+--- orig
+➻❥ Xóa trang
+--- ftfy.fix_text
+➻❥ Xóa trang
+--- ftfy.fix_encoding
+➻❥ Xóa trang
+--- latin1->utf8
+?? X�a trang
+--- utf8bytes->latin1
+â»â¥ XÃ³a trang
+
+ID 63
+--- orig
+➻❥ Xóa tin tức giày
+--- ftfy.fix_text
+➻❥ Xóa tin tức giày
+--- ftfy.fix_encoding
+➻❥ Xóa tin tức giày
+--- latin1->utf8
+?? X�a tin t?c gi�y
+--- utf8bytes->latin1
+â»â¥ XÃ³a tin tá»©c giÃ y
+
+ID 67
+--- orig
+➻❥ Xóa đơn giày
+--- ftfy.fix_text
+➻❥ Xóa đơn giày
+--- ftfy.fix_encoding
+➻❥ Xóa đơn giày
+--- latin1->utf8
+?? X�a ??n gi�y
+--- utf8bytes->latin1
+â»â¥ XÃ³a ÄÆ¡n giÃ y
+

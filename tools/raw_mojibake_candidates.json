@@ -1,0 +1,26 @@
+[
+  {
+    "table": "permissions",
+    "column": "name",
+    "id": 51,
+    "value": "â»â¥ Xem slider",
+    "hex": "C3A2C29EC2BBC3A2C29DC2A52058656D20736C69646572",
+    "contains_fffd": false
+  },
+  {
+    "table": "permissions",
+    "column": "name",
+    "id": 55,
+    "value": "â»â¥ Xem banner",
+    "hex": "C3A2C29EC2BBC3A2C29DC2A52058656D2062616E6E6572",
+    "contains_fffd": false
+  },
+  {
+    "table": "permissions",
+    "column": "name",
+    "id": 60,
+    "value": "â»â¥ Xem trang",
+    "hex": "C3A2C29EC2BBC3A2C29DC2A52058656D207472616E67",
+    "contains_fffd": false
+  }
+]

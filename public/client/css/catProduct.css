@@ -1,0 +1,107 @@
+#wp-cat-product .title-filter {
+    border-bottom: 1px solid black;
+}
+#wp-cat-product p.title {
+    background: #2b5480;
+    padding: 10px;
+    display: inline-block;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 10px;
+    height: 100%;
+    border-radius: 5px;
+}
+.wp-list-product ul {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+.wp-list-product li.item {
+    background: #ffffff;
+    box-sizing: border-box;
+    width: 24.1%;
+    /* width: calc(25% - 10px); */
+    padding: 25px 15px;
+    margin: 10px 10px 10px 0px;
+}
+
+.wp-list-product li.item:nth-child(4n) {
+    margin-right: 0px;
+}
+
+.wp-list-product li.item .code {
+    background: rgb(213, 210, 210);
+    border-radius: 10px;
+    padding: 0px 5px;
+    color: #060606;
+}
+.wp-list-product li.item .code span {
+    font-weight: 500;
+}
+
+.wp-list-product li.item .name-product a {
+    text-align: center;
+    margin: 10px 0px;
+    display: block;
+    font-weight: 500;
+}
+.wp-list-product li.item .new-price {
+    font-weight: 500;
+    color: red;
+}
+.wp-list-product li.item .old-price {
+    font-size: small;
+    text-decoration: line-through;
+}
+.wp-list-product li.item .price {
+    text-align: center;
+}
+.wp-list-product li.item .thumb-product img {
+    max-width: 100%;
+    height: 212px;
+    margin-bottom: 10px;
+}
+
+.wp-list-product li img {
+    transition: all 0.3s ease;
+    padding: 5px 0px;
+}
+.wp-list-product li:hover img {
+    transform: translateY(-5px);
+    transition: all 0.5s ease;
+}
+.wp-list-product .col-md-3 {
+    box-sizing: border-box !important;
+}
+
+#paging-wp {
+    text-align: center;
+    margin-top: 25px;
+}
+#paging-wp .list-item {
+    display: inline-block;
+    margin-bottom: 20px;
+}
+#paging-wp .list-item li a {
+    background: #ababab;
+    color: #fff;
+}
+#paging-wp .list-item li a:hover {
+    background: #868686;
+}
+
+#filter-product-wp .section-detail {
+    background: #fff;
+    line-height: 2rem;
+    padding: 20px;
+    color: black;
+}
+#filter-product-wp .section-detail input[type="radio"] {
+    margin-right: 10px;
+}
+#filter-product-wp #filter-price {
+    border-bottom: 2px solid black;
+    display: block;
+    padding-bottom: 20px;
+}

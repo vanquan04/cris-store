@@ -1,0 +1,10 @@
+id,name,method,orig,fixed,orig_score,new_score
+29,➻❥ Xóa quản trị,â»â¥ XÃ³a quáº£n trá»,utf8bytes->latin1,30,34
+30,Γ₧╗Γ¥Ñ Cß║¡p nhß║¡t quß║ún trß╗ï,➻❥ Cập nhật quản trị,ftfy.fix_text,-23,40
+37,Γ₧╗Γ¥Ñ Xem quß║ún trß╗ï,➻❥ Xem quản trị,ftfy.fix_text,-2,25
+43,Γ₧╗Γ¥Ñ Cß║¡p nhß║¡t quyß╗ün,➻❥ Cập nhật quyền,ftfy.fix_text,-18,32
+44,➻❥ Xóa quyền,â»â¥ XÃ³a quyá»n,utf8bytes->latin1,22,24
+47,Γ₧╗Γ¥Ñ Xem quyß╗ün,➻❥ Xem quyền,ftfy.fix_text,3,17
+49,Γ₧╗Γ¥Ñ Cß║¡p nhß║¡t slider,➻❥ Cập nhật slider,ftfy.fix_text,-4,28
+53,Γ₧╗Γ¥Ñ Cß║¡p nhß║¡t banner,➻❥ Cập nhật banner,ftfy.fix_text,-4,28
+58,Γ₧╗Γ¥Ñ Sß╗¡a trang,➻❥ Sửa trang,ftfy.fix_text,3,17

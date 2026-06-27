@@ -1,0 +1,5 @@
+id,fullname,method,orig,fixed,orig_score,new_score
+8,Trß║ºn Quang D┼⌐ng,Trần Quang Dũng,ftfy.fix_text,3,25
+10,Mß║ºu Kiß╗üu Trang,Mầu Kiều Trang,ftfy.fix_text,-12,24
+11,Mß║ºu Kiß╗üu Tranggg,Mầu Kiều Tranggg,ftfy.fix_text,-10,26
+24,Nguyß╗àn Thß╗ï Mai,Nguyễn Thị Mai,ftfy.fix_text,-7,24

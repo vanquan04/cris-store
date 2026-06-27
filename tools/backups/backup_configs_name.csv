@@ -1,0 +1,4 @@
+id,name,method,orig,fixed,orig_score,new_score
+4,Loß║íi 1,Loại 1,ftfy.fix_text,-2,11
+5,Loß║íi 2,Loại 2,ftfy.fix_text,-2,11
+6,Loß║íi 3,Loại 3,ftfy.fix_text,-2,11

@@ -1,0 +1,41 @@
+#myFooter {
+  background: #2b5480;
+  font-size: 15px;
+  padding: 20px 0px;
+}
+
+#myFooter ul li {
+  margin-bottom: 10px;
+}
+
+#myFooter ul li a {
+  color: #fff;
+}
+#myFooter .social {
+  text-align: center;
+}
+#myFooter ul li a:hover {
+  color: #fe8700;
+}
+
+#myFooter .title {
+  font-weight: 600;
+  font-size: large;
+  margin: 15px 0px;
+}
+
+ul.collapse1.show,
+ul.collapse2.show,
+ul.collapse3.show {
+  display: block;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.3s;
+}
+
+ul.collapse1.show,
+ul.collapse2.show,
+ul.collapse3.show {
+  max-height: 200px;
+  /* Thay đổi giá trị tùy theo chiều cao cần hiển thị */
+}

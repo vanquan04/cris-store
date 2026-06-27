@@ -1,0 +1,93 @@
+version: '3'
+services:
+
+  # PHP Service
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      args:
+        user: cris
+        uid: 1000
+    image: cris-store-app
+    container_name: cris-store-app
+    restart: unless-stopped
+    tty: true
+    entrypoint: >
+      sh -c "
+      until php -r \"new PDO('mysql:host=db;port=3306;dbname=devchampion', 'root', '');\" >/dev/null 2>&1; do
+        echo 'Waiting for database connection...';
+        sleep 2;
+      done;
+      echo 'Database ready';
+      composer dump-autoload --no-interaction --quiet || true;
+      echo 'Composer done';
+      php artisan db:seed --class=AdminUserSeeder --force || true;
+      echo 'Seeder done';
+      echo 'Starting PHP-FPM';
+      php-fpm -F
+      "
+    environment:
+      SERVICE_NAME: app
+      SERVICE_TAGS: dev
+    working_dir: /var/www
+    volumes:
+      - ./:/var/www
+      - ./docker-compose/php/local.ini:/usr/local/etc/php/conf.d/local.ini
+    networks:
+      - cris-store-network
+
+  # Nginx Service
+  web:
+    image: nginx:alpine
+    container_name: cris-store-nginx
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "8000:80"
+    volumes:
+      - ./:/var/www
+      - ./docker-compose/nginx:/etc/nginx/conf.d/
+    networks:
+      - cris-store-network
+
+  # MySQL Service
+  db:
+    image: mysql:8.0
+    container_name: cris-store-db
+    restart: unless-stopped
+    tty: true
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_DATABASE: ${DB_DATABASE}
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+      MYSQL_ALLOW_EMPTY_PASSWORD: 'yes'
+      SERVICE_TAGS: dev
+      SERVICE_NAME: mysql
+    volumes:
+      - ./docker-compose/mysql:/var/lib/mysql
+      - ./docker-compose/mysql/my.cnf:/etc/mysql/conf.d/my.cnf:ro
+      - ./database/devchampion_utf8.sql:/docker-entrypoint-initdb.d/db.sql
+    networks:
+      - cris-store-network
+
+  # phpMyAdmin Service
+  phpmyadmin:
+    image: phpmyadmin/phpmyadmin
+    container_name: cris-store-phpmyadmin
+    restart: unless-stopped
+    ports:
+      - "8081:80"
+    environment:
+      PMA_HOST: db
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+    depends_on:
+      - db
+    networks:
+      - cris-store-network
+
+# Docker Networks
+networks:
+  cris-store-network:
+    driver: bridge

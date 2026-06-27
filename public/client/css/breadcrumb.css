@@ -1,0 +1,30 @@
+#breadcrumb-wp {
+  padding: 15px 0px;
+}
+#breadcrumb-wp .list-item li {
+  float: left;
+}
+#breadcrumb-wp .list-item li a {
+  position: relative;
+  display: block;
+  color: #333;
+  padding-left: 20px;
+  line-height: normal;
+  font-size: 16px;
+}
+#breadcrumb-wp .list-item li:first-child a:before {
+  position: absolute;
+  content: "\f015";
+  font-family: "FontAwesome";
+  top: 2px;
+  left: 0;
+  line-height: normal;
+}
+#breadcrumb-wp .list-item li:nth-child(n + 2) a:before {
+  position: absolute;
+  content: "\f105";
+  font-family: "FontAwesome";
+  top: 4px;
+  left: 8px;
+  line-height: normal;
+}

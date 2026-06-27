@@ -1,0 +1,202 @@
+#wp-detail-product .thumb_main img {
+    width: 100%;
+    transition: opacity 0.1s ease-in-out;
+    cursor: pointer;
+    height: auto;
+}
+
+#wp-detail-product .list_thumb img {
+    cursor: pointer;
+}
+#wp-detail-product .section-detail {
+    background: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+#wp-detail-product {
+    line-height: normal;
+}
+#wp-detail-product .product_name {
+    font-weight: 500;
+    font-size: 28px;
+    color: rgb(129, 47, 2);
+    border-bottom: 2px solid black;
+    padding-bottom: 10px;
+}
+
+#wp-detail-product .new-price {
+    font-weight: 600;
+    font-size: 20px;
+    margin-right: 5px;
+}
+#wp-detail-product .old-price {
+    color: black;
+    font-weight: 400;
+    text-decoration: line-through;
+}
+.option-buttons {
+    display: flex;
+}
+
+.option-button {
+    padding: 5px 10px;
+    background-color: #e0e0e0;
+    border: none;
+    color: black;
+    border-radius: 5px;
+    margin: 10px 10px 10px 0px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: 0.3s ease;
+}
+
+.option-button.selected {
+    background-color: #2b5480;
+    color: #fff;
+}
+
+.option-button.selected::after {
+    content: "\2713";
+    display: inline-block;
+    margin-left: 5px;
+}
+#num-order-wp {
+    margin: 15px 0px;
+}
+#num-order {
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid #b1b1b1;
+    color: #545454;
+}
+#minus,
+#plus {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    line-height: 30px;
+    text-align: center;
+    border: 1px solid #a0a0a0;
+    color: #515151;
+    font-size: 10px;
+    cursor: pointer;
+}
+#minus:hover {
+    color: #3a9800;
+    border: 1px solid #3a9800;
+}
+#plus:hover {
+    color: #f00;
+    border: 1px solid #f00;
+}
+#wp-detail-product .wp-desc-detail .title p,
+#wp-detail-product .wp-same-category .title p {
+    background: #2b5480;
+    padding: 10px;
+    display: inline-block;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+#wp-detail-product .wp-desc-detail .title,
+#wp-detail-product .wp-same-category .title {
+    border-bottom: 2px solid rgb(112, 112, 112) !important;
+    margin-bottom: 10px;
+}
+
+#wp-detail-product .wp-desc-detail .desc-detail-demo,
+#wp-detail-product .wp-desc-detail .desc-detail-full {
+    background: #fff;
+    padding: 10px;
+    border-radius: 10px;
+    overflow: hidden;
+}
+.wp-desc-detail .section-detail {
+    position: relative;
+}
+.btn-more-info .view-mode {
+    padding: 5px 89px;
+    display: inline-block;
+    position: absolute;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 15px;
+    border: 1px solid #2f80ed;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+    color: rgb(255, 255, 255);
+    font-weight: 600;
+    border-radius: 4px;
+    background: rgb(142, 83, 0);
+    text-transform: uppercase;
+    box-shadow: 10px 5px 15px rgba(1, 1, 1, 0.3);
+    opacity: 0.6;
+    transition: opacity 0.3s ease-in-out;
+}
+.btn-more-info .view-mode {
+    opacity: 0.6;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.btn-more-info .view-mode:hover {
+    opacity: 1;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.btn-more-info .view-mode:hover {
+    background: rgb(162, 108, 0);
+    transition: all 0.5s;
+    opacity: 1;
+}
+
+.desc-quick {
+    /* max-height: 100px;
+    overflow: hidden; */
+}
+
+.desc-detail {
+    max-height: 1000px;
+    overflow: hidden;
+}
+.wp-same-category ul {
+    display: flex;
+}
+.wp-same-category ul li {
+    display: inline-block;
+}
+.wp-same-category .item {
+    background: #fff;
+    border-radius: 10px;
+    padding: 20px 10px;
+}
+.wp-same-category .view {
+    font-weight: 500;
+    color: rgb(70, 67, 67);
+}
+.wp-same-category .code {
+    background: rgb(187, 186, 186);
+    padding: 1px 2px;
+    border-radius: 5px;
+    font-weight: 500;
+    color: rgb(70, 67, 67);
+}
+.wp-same-category .name-product {
+    font-weight: 500;
+    text-align: center;
+}
+.wp-same-category .price {
+    color: red;
+    text-align: center;
+    font-weight: 600;
+}
+.wp-same-category .thumb-product img {
+    max-width: 100%;
+    border-radius: 10px 10px 10px 10px;
+    margin-bottom: 10px;
+    height: 214px;
+}

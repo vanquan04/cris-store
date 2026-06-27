@@ -1,0 +1,11 @@
+#wp-detail-blog {
+    background: #fff;
+    padding: 20px;
+    overflow: hidden;
+    margin-bottom: 40px;
+}
+#wp-detail-blog .title {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
